@@ -1,0 +1,22 @@
+{{ShortTr
+|title = Germany 1
+|titlecard = SpongeBob & Patrick Travel the World - Germany 1.png
+|shortnumber = 11
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|February 12}}, {{Time|2015}}
+}}{{L|''[A photo showing SpongeBob and Patrick as Invincibubble and Mr. Superawesomeness at the Hofbräuhaus am Platzl.]''}}
+{{L|SpongeBob|Any super awesome trip to Germany has to begin with the Hofbräuhaus.}}
+{{L|Patrick|It's a rule there.}}
+{{L|SpongeBob|Uh, no it's not.}}
+{{L|Patrick|I'm pretty sure it is.}}
+{{L|SpongeBob|No it's not!}}
+{{L|''[A photo showing SpongeBob and Patrick at the Berlin Zoo.]''}}
+{{L|SpongeBob|At Bikini Berlin, we got to see a bunch of animals. It's just like Bikini Bottom, but with more monkeys.}}
+{{L|Patrick|They're in the monkey business? ''[laughs]''}}
+{{L|SpongeBob|Aren't we all? ''[laughs]''}}
+{{L|''[A photo showing SpongeBob and Patrick at the Port of Hamburg.]''}}
+{{L|SpongeBob|And finally, we visited the Hamburger Hafen.}}
+{{L|Patrick|It was not filled with hamburgers as one might expect.}}
+{{L|SpongeBob|No, it's actually the city of Hamburg's harbor.}}
+{{L|Patrick|False advertising.}}
+

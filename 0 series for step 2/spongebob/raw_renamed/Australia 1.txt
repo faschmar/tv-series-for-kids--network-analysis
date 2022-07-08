@@ -1,0 +1,20 @@
+{{ShortTr
+|title = Australia 1
+|titlecard = SpongeBob & Patrick Travel the World - Australia 1.png
+|shortnumber = 15
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|March 31}}, {{Time|2015}}
+}}
+{{L|''[A photo of SpongeBob and Patrick standing next to a kangaroo sign]''}}
+{{L|SpongeBob|In Australia, you can find the kangaroo in the outback. Do you know why female kangaroos have pouches?}}
+{{L|Patrick|Oh, to carry their keys! ''[silence]'' And snacks!}}
+{{L|''[A photo of SpongeBob and Patrick at the Great Barrier Reef while traveling in a submarine]''}}
+{{L|SpongeBob|Here we are in the Great Barrier Reef. It's so big, it can be seen from space. But back in Bikini Bottom. We call it the big city!}}
+{{L|Patrick|If you can make it there, you can make it anywhere!}}
+{{L|''[A photo of SpongeBob and Patrick at the Sydney Harbor]''}}
+{{L|SpongeBob|Patrick and I couldn't go to Australia and not visit the Sydney Harbor and not witness its iconic view. Why it's almost as iconic as...}}
+{{L|''[A photo of SpongeBob and Patrick at the Big Pineapple]''}}
+{{L|SpongeBob|Now, that's what I call architecture! She's a beauty, ain't she?}}
+{{L|Patrick|Uh-huh. You said is, SpongeBob. One of a kind.}}
+[[Category:Transcripts]]
+

@@ -1,0 +1,23 @@
+{{ShortTr
+|prev = Loop dee Loop
+|title = Are We There Yet?
+|next = Beware Flying Jellyfish
+|titlecard = 1 - Journey to Atlantis by Vantis Short 1.png
+|shortnumber = 1
+|shorttype = Atlantis SquarePantis shorts
+|airdate = {{Time|November 13}}, {{Time|2007}}
+}}
+{{L|Announcer|The Journey to Atlantis by Vantis!}}
+{{L|''[Squidward is reading a book, SpongeBob rises behind his seat]''}}
+{{L|SpongeBob|''[Pokes Squidward]'' Squidward, are we there yet?}} {{L|Squidward|Go away.}} {{L|SpongeBob|''[Pats Squidward's head]'' Sure thing. Didn't mean to bother ya. ''[SpongeBob lowers behind Squidward's seat]''}}
+{{L|''[He then lowers from a door in the ceiling]''}}
+{{L|Squidward|What the...!?}}
+{{L|SpongeBob|Squidward, are we there yet?}}
+{{L|Squidward|''[Closes door SpongeBob is lowered from]'' Knock it off, SpongeBob!}}
+{{L|SpongeBob|''[Pops out of Squidward's book. Pages fly out]'' But are we there-}}
+{{L|Squidward|''[Cuts him off]'' No, we are not there yet! And do you know how I know that? ''[SpongeBob shakes his head horizontally]'' Because the bus hasn't moved yet!}}
+{{L|SpongeBob|Aaahh. Are we there yet?}}
+
+{{L|Announcer|Watch SpongeBob SquarePants, every day on Nick.}}
+[[Category:Transcripts]]
+

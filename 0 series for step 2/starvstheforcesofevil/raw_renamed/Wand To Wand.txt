@@ -1,0 +1,436 @@
+{| class="wikitable" width="100%" valign="top"
+!
+|''Scene opens in a lodge in the woods. Inside, many rats socialize while eating porridge out of glass bowls. The door opens; bird and spider walk in holding Ludo, dropping him at the host's counter.''
+|-
+!'''[[Ludo]]'''
+| I'm glad you're open. I'm starving. I'd like some porridge, please. 
+|-
+!'''Host rat'''
+| [snaps fingers, bowl appears]
+|-
+!'''[[Giant spider|Spider]]'''
+| [shrieks]
+|-
+!'''Ludo'''
+| No! [begins eating, stops] This is mud. 
+|-
+!'''Host rat'''
+| [laughs, other rats join in]
+|-
+!'''Ludo'''
+| That's not funny. 
+|-
+!
+|''One of the rats mocks Ludo with an impression of him. Ludo whips out his wand. The laughing stops.''
+|-
+!'''Ludo'''
+| You messed with the wrong bird, rat. Face-melting death ray! [nothing happens] Huh?
+|-
+!
+|''Ludo shrieks as he, bird, and spider are thrown out of the lodge. His wand hits him in the head.''
+|-
+!'''Ludo'''
+| Ow! [growls, stares at wand]
+|-
+!
+|''Scene changes to the Diaz's house, Star is using her wand to carefully put a ship in a bottle.''
+|-
+!'''[[Marco Diaz]]'''
+| Star!
+|-
+!'''[[Star Butterfly]]'''
+| [accidentally, smashes bottle]
+|-
+!'''Marco'''
+| It's your turn to take out the garbage.
+|-
+!'''Star'''
+| Marco, you've ruined my Mewni battleship. 
+|-
+!'''Marco'''
+| Don't you think you have enough ships in a bottle?
+|-
+!'''Star'''
+| Enough? I don't even know you.
+|-
+!'''Marco'''
+| Come on. We told Mom and Dad we'd have the place cleaned up before they got home, and garbage is all yours. 
+|-
+!'''Star'''
+| [frustrated] Oh, fine [wand flashes green]. Mm summoning cloudy charm. Cloudy, could you take out the gar... 
+|-
+!'''[[Cloudy]]'''
+| [wheezing]
+|-
+!'''Star'''
+| Uh, Cloudy? Hello?
+|-
+!'''Cloudy'''
+| [wheezing]
+|-
+!'''Star'''
+| [rattles wand] Cloudy?
+|-
+!'''Cloudy'''
+| Oh, hey Star.
+|-
+!'''Star'''
+| Uh, are you okay?
+|-
+!'''Cloudy'''
+| Yeah. Perfectly fine [eye moves out of place]
+|-
+!'''Star'''
+| Okay. Could you take out the garbage?
+|-
+!'''Cloudy'''
+| Sure can. I guess princess hands are too delicate to touch garbage [chuckles] 
+|-
+!'''Star'''
+| What?
+|-
+!'''Cloudy'''
+| Oh, nothing [grabs trash bag, bumps into wall] Excuse me. [bumps into door] Pardon me, I got a mouthful of garbage. 
+|-
+!'''Star'''
+| Huh [stares at wand]
+|-
+!
+|''Scene jumps back to Ludo''
+|-
+!'''Ludo'''
+| [stares at wand] I don't know girls. Maybe this isn't what it looks like. It looks like a magic wand but...
+|-
+!'''Spider'''
+| [tries to grab it]
+|-
+!'''Ludo'''
+| What did I say? Follow three feet behind me. Three! Yeah, anyway, I don't know, maybe it's just a baby rattle.
+|-
+!'''Spider'''
+| [grabs wand]
+|-
+!'''Ludo'''
+| What are you doing? No. No, put it down. 
+|-
+!'''Spider'''
+| [starts eating it]
+|-
+!'''Ludo'''
+| No no let go, you nasty nasty thing. [angrily] You let go of my thing!
+|-
+!
+|''The wand flashes green, blasting spider and Ludo in the face.''
+|-
+!'''Ludo'''
+| [screams, gasps] What⁈ [runs to spider] Do it again. 
+|-
+!'''Bird'''
+| [bites Ludo's head]
+|-
+!'''Ludo'''
+| Not you, you stupid...
+|-
+!'''Bird'''
+| [throws Ludo]
+|-
+!'''Ludo'''
+| [shrieks, crashes, mumbles] I said not you, bird. 
+|-
+!
+|''The wand illuminates green light, dragging Ludo further away. Ludo smiles and runs back.''
+|-
+!'''Ludo'''
+| Do it again. 
+|-
+!'''Bird'''
+| [throws Ludo]
+|-
+!'''Ludo'''
+| [screams, crashes, growls, blasts bird with wand, evilly laughs] It's working girls.
+|-
+!'''Spider + Bird'''
+| [run towards Ludo]
+|-
+!'''Ludo'''
+| Oh no no. No no! I was kidding
+|-
+!'''Spider'''
+| [grabs Ludo with silk]
+|-
+!'''Ludo'''
+| Please, let me go. Let me go! 
+|-
+!'''Bird'''
+| [picks up Ludo, flies]
+|-
+!'''Ludo'''
+| Don't let me go!
+|-
+!'''Bird'''
+| [drops Ludo]
+|-
+!'''Ludo'''
+| [screams]
+|-
+!
+|''Scene changes. Star's spell book is in view''
+|-
+!'''[[Glossaryck]]'''
+| [groans from inside book]
+|-
+!'''Star'''
+| Oh no. What happened? 
+|-
+!'''Glossaryck'''
+| [points to pink substance by his head] I had an accident. 
+|-
+!'''Star'''
+| Glossaryck! 
+|-
+!'''Glossaryck'''
+| Inside voices please.
+|-
+!'''Star'''
+| Oh, sorry. Yeah. Uh, Glossaryck, there's something funky happening with my wand.
+|-
+!'''Glossaryck'''
+| Oh. What's wrong with it?
+|-
+!'''Star'''
+| It's acting weird. It's not doing what it's supposed to. 
+|-
+!'''Glossaryck'''
+| Look Star, maybe there's something wrong with you. You ever think about that? 
+|-
+!'''Star'''
+| And what's that supposed to mean? 
+|-
+!'''Glossaryck'''
+| Uh, I'm not 100% sure. I guess it means there's something wrong with everyone. I mean, look at me. I did magic on my own face. You know?
+|-
+!'''Star'''
+| No help as usual. 
+|-
+!'''Glossaryck'''
+| It hurts everywhere! 
+|-
+!'''Star'''
+| [closes spell book]
+|-
+!'''Marco'''
+| Star, you're taking care of the garbage, right? 
+|-
+!'''Star'''
+| Yeah. I got Cloudy to do it. 
+|-
+!'''Marco'''
+| Uh, about that...
+|-
+!
+|''Downstairs''
+|-
+!'''Cloudy'''
+| [giggling, destroying a table] I don't know why I have so much energy today. Must be all that iced tea.
+|-
+!'''Star'''
+| [mouth agape] 
+|-
+!
+|''Scene jumps back to Ludo, spider, and bird who fly outside the rat's lodge.''
+|-
+!'''Ludo'''
+| No girls, it's gonna get ugly.
+|-
+!
+|''Ludo walks inside, physically kicks a rat off his stool, and pushes two rats out of the way to pull up to the counter.''
+|-
+!'''Ludo'''
+| A bowl of your finest mud sir.  
+|-
+!'''Host Rat'''
+| [blinks]
+|-
+!'''Ludo'''
+| Mm, I can taste it already [bangs table with silverware]
+|-
+!'''Host Rat'''
+| [snaps fingers]
+|-
+!
+|''Ludo dumps the mud on his face. ''
+|-
+!'''Host Rat'''
+| [squeaks]
+|-
+!'''Ludo'''
+| Ah! [wipes his face] All done. [punches host]
+|-
+!
+|''Every rat stares angrily at Ludo as he stands on counter.''
+|-
+!'''Ludo'''
+| [proclaiming] Do your worst!
+|-
+!
+|''Scene changes back to the Diaz's living room as Cloudy continues to rain over it.''
+|-
+!'''Cloudy'''
+| [laughs, lights chair on fire] Ah! Whoopsie!
+|-
+!'''Marco'''
+| What's with him? 
+|-
+!'''Star'''
+| Cloudy, you stop this right now.
+|-
+!'''Cloudy'''
+| [picks up a lamp, riding it like a horse] Giddy-up!
+|-
+!'''Star'''
+| Are you listening to me?
+|-
+!'''Cloudy'''
+| Whee! Aah.
+|-
+!'''Star'''
+| Stop playing around and clean all this up.
+|-
+!'''Cloudy'''
+| Uh-oh. Looks like someone's allergic to good vibes [blows wind in Star's hair, laughs]
+|-
+!'''Star'''
+| Okay, that's enough. Sunshine friendship.
+|-
+!'''Cloudy'''
+| [mocking] Sunshine friendship. [smashes bottles] Oopsie. 
+|-
+!'''Star'''
+| My Mewni battleships. [growls] Sunshine friendship spell!
+|-
+!'''Cloudy'''
+| [hit by green spell, start expanding] Hey! That was sooooo rude!
+|-
+!
+|''Marco and Star run outside as Cloudy expands to become a huge hurricane-like storm over the entire house. ''
+|-
+!
+|''Scene jumps back to Ludo. He is laughing while all the rats attack him. Many rats surround him and star throwing punches. Spider and bird run inside.''
+|-
+!'''Ludo'''
+| No girls. I'm fine. [jumps away] Come on, hit me like you mean it!
+|-
+!
+|''A rat smacks Ludo's face with a mop into a wall.''
+|-
+!'''Ludo'''
+| Now you're really starting to tick me off. 
+|-
+!
+|''A dozen rats jump on him. Ludo screams, struggling to pull himself away, but the rats pull him back in. The wand emits a green glow.''
+|-
+!'''Ludo'''
+| Run. 
+|-
+!
+|''The wand explodes with green light. All the rats are thrown from Ludo. He targets the host and blasts him with a green laser, laughing insanely. ''
+|-
+!
+|''Scene jumps back to Star''
+|-
+!'''Star'''
+| Cloudy, you're out of control! [blasts with wand]
+|-
+!
+|''The storm worsens, a tree falls and Marco scrambles to jump/walk over it.''
+|-
+!'''Star'''
+| That. Is. Enough!
+|-
+!
+|''Star sends out a huge pulse of green light, cutting through Cloudy.''
+|-
+!'''Cloudy'''
+| Hey! You poked my fluffies! 
+|-
+!
+|''Cloudy then stars using suction breath, tearing the roof off the shed.''
+|-
+!'''Marco'''
+| I think you're making him worse. 
+|-
+!'''Star'''
+| [keeps firing blasts]
+|-
+!'''Marco'''
+| You gotta sto-[screams as pulled into the air]Star!
+|-
+!'''Star'''
+| Marco!
+|-
+!
+|''Star's wand turns pink and emits a burst of pink light.''
+|-
+!'''Star'''
+| Raspberry ribbon lasso! 
+|-
+!
+|''The spell pulls Marco back in to safety. ''
+|-
+!'''Marco'''
+| [crashes to ground] Thank you.
+|-
+!'''Star'''
+| [jumps into air] Sunshine friendship spell!
+|-
+!'''Cloudy'''
+| Oh! [giggles, begins shrinking]
+|-
+!'''Star'''
+| You okay?
+|-
+!'''Marco'''
+| Yeah, thanks to you. 
+|-
+!'''Cloudy'''
+| [giggles] Whoa! What a mess! What happened?
+|-
+!'''Marco'''
+| Yeah, what was up with your wand?
+|-
+!'''Star'''
+| I have no idea.
+|-
+!'''[[Rafael Diaz]]'''
+| Kids, we got you ice cream for cleaning the hou-[gasps].
+|-
+!
+|''Later, while cleaning up the living room.''
+|-
+!'''Rafael Diaz'''
+| Oh Star, it is always exciting with you around. 
+|-
+!'''[[Angie Diaz]]'''
+| This'll take us all weekend to clean. 
+|-
+!'''Star'''
+| Oh no no. I've got this. Tidying up tidal wa... [thinks better of it] You know what? Give me that thing [pick up a broom]
+|-
+!'''Marco'''
+| [flips the broom so it's right side up]
+|-
+!'''Star'''
+| Oh, that's way better!
+|-
+!
+|''Scene jumps back to the rat lodge. It burns. Ludo points his wand at the host rat.''
+|-
+!'''Ludo'''
+| Now... serve me some porridge. 
+|-
+|}
+
+{{Transcripts}}
+[[Category:Season 2 transcripts]]
+[[Category:A to Z]]
+

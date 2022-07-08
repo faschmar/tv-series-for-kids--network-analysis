@@ -1,0 +1,13 @@
+{{ETab}}
+{{BG/TC General}}
+{{TC Incomplete}}
+The following is a transcript for the episode "[[{{BASEPAGENAME}}]]".
+
+==Script==
+{{Transcript}}
+
+{{TC ScriptNav}}
+[[Category:The Casagrandes Season 3 Scripts]]
+[[Category:Incomplete Scripts]]
+[[Category:Upcoming Episodes Scripts]]
+

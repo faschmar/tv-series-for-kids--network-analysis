@@ -1,0 +1,16 @@
+{{ShortTr
+|prev = The Story of King Neptune
+|title = Tips for Jellyfish Fields
+|next = Jellyfish Safety Tips
+|titlecard = 1 - Tips for Jellyfish Fields.png 
+|shortnumber = 1 
+|shorttype = SpongeBob's Last Stand shorts
+|airdate = {{Time|October 5}}, {{Time|2010}}}}
+{{L|Narrator|And now, some simple guidelines from your visit to Jellyfish Fields. Always pack lightly. ''[Patrick is shown in his house, he takes out a jellyfishing net and puts himself in it into the suitcase which breaks underneath his weight]'' Dispose of litter properly.}}
+{{L|SpongeBob|Gadzooks! ''[sees a piece of litter on the ground and turns into trash can, he flips the ground around so the rubbish goes into him and he laughs]''}}
+{{L|Narrator|And lastly, please respect the kind jellyfish.}}
+{{L|Squidward|''[catches the jellyfish with the book he is reading]'' Ha! Hahaha... ''[Squidward's lawn chair collapses on him]'' Ah! ''[Jellyfish comes out of the book, sting Squidward and he screams]''}}
+{{L|Narrator|This has been a word from Jellyfishing Fields State Park.}}
+{{L|Squidward|Ohhh...}}
+[[Category:Transcripts]]
+

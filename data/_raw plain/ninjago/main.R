@@ -1,0 +1,11 @@
+#install.packages("rvest")
+#install.packages("stringr")
+#install.packages("readr")
+#install.packages("filesstrings")
+#install.packages("readtext")
+
+library(rvest)
+library(stringr)
+library(readr)
+library(filesstrings)
+library(readtext)

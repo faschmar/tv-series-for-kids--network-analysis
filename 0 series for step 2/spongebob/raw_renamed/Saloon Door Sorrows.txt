@@ -1,0 +1,14 @@
+{{ShortTr
+|prev = Spurskate
+|title = Saloon Door Sorrows
+|next = Yokel to Tough Guy
+|titlecard = Saloon Doors Sorrows.png
+|shortnumber = 3
+|shorttype = Pest of the West shorts
+|airdate = {{Time|April 15}}, {{Time|2008}}
+}}
+{{L|SpongeBuck|''[through a speech card]'' I can't wait to see my pals over at the Krusty Kantina. ''[he can't get through the doors]'' These doors seem to be stuck.}}
+{{L|''[he tries slamming into them but he gets blown away. He slams harder and still gets thrown out, he sees Pecos and tries going through the doors as they close on him]''}}
+{{L|Bikini Gulch Sandy|''[through a speech card]'' I wonder why SpongeBuck didn't show?}}
+[[Category:Transcripts]]
+

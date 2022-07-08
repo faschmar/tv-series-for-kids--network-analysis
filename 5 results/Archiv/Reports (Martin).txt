@@ -1,0 +1,44 @@
+Report (Martin):
+
+Characteristics:
+
+Ok - Number of Episodes - dates
+Ok - Number of seasons
+
+Ok - Gender: mfn - number
+
+Ok - Roles: m f n 
+
+Ok - Roles categories: m f n
+
+Ok - Gender over season
+
+Ok - Lines per gender
+
+Ok - Lines per gender & Role
+
+Ok - Lines per gender per season (plot)
+
+Ok - Lines per gender & season - relative to number of female/male characters (plot) - YES
+
+Ok - Words count per gender per season (means, plot) - OUTLIERS - no outlier deletion
+
+
+todo: 
+
+Question? - Gender_From: female: more "?" in mean (Text), when Gender_To=Male - 2x2 Design
+
+Questions per gender (mfn) -difference?
+
+Graph nodes by gender - betweenness
+
+—
+
+Models
+- ANOVAS - z-transformed Sentiment.ai Scores, reports of mean - untransformed data
+1 - Gender_From/To
+2 - Gender_From/TO, Role_From/To
+3 - Gender_From/TO, Role_Cat_From/To
+
+4 - Laura - Role (main, villains) From/TO
+	- subset - data[data$group != "g1", ]  

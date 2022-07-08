@@ -1,0 +1,20 @@
+{{ShortTr
+|prev = Are We There Yet?
+|title = Beware Flying Jellyfish
+|next = Documenting Our Road Trip
+|titlecard = 2 - Journey to Atlantis by Vantis Short 2.png
+|shortnumber = 2
+|shorttype = Atlantis SquarePantis shorts
+|airdate = {{Time|November 13}}, {{Time|2007}}
+}}
+{{L|Announcer|The Journey to Atlantis by Vantis!}}
+{{L|''[Patrick opens the window and laughs]''}}
+{{L|SpongeBob|Umm, Patrick?}}
+{{L|Patrick|Yes?}}
+{{L|SpongeBob|I don't think that's a good idea.}}
+{{L|Patrick|Don't be a silly head! ''[sticks his head back outside the window]'' Wheee! See? I told you not to- ''[a jellyfish flies onto his face and starts stinging him and he screams]'' Get it off me! ''[starts banging his head, screams as the jellyfish flies off his face]''}}
+{{L|SpongeBob|Well, Patrick? Did you learn your... ''[Patrick sticks his head back out the window]'' ...lesson?}}
+
+{{L|Announcer|Watch SpongeBob SquarePants, every day on Nick.}}
+[[Category:Transcripts]]
+

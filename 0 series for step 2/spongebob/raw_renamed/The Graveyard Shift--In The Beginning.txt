@@ -1,0 +1,10 @@
+{{Transcript-incomplete}}
+{{SpecialTr
+|prev = Drawing Characters
+|title = The Graveyard Shift: In the Beginning
+|next = Show Design
+|titlecard = GraveyardShiftInTheBeginning.png
+|specialnumber = 7
+|DVD = Nautical Nonsense and Sponge Buddies={{Time|March 12}}, {{Time|2002}}
+}}
+

@@ -1,0 +1,21 @@
+{{ShortTr
+|title = Brazil 1
+|titlecard = SpongeBob & Patrick Travel the World - Brazil 1.png
+|shortnumber = 1
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|February 6}}, {{Time|2015}}
+}}
+{{L|''[cue "SpongeBob and Patrick Travel the World" intro]''}}
+{{L|SpongeBob|Patrick and I had to go to carnival! It's the world's biggest party! 2 million people at 10 daily!}}
+{{L|Patrick|And one sponge and one sea star!}}
+{{L|SpongeBob|Alright! So make it 2 million and 2!}}
+{{L|Patrick|I don't get it.}}
+{{L|SpongeBob|Patrick and I visited the Pantanal region. Our blue arara friends were quite chatty. Here's one now, talking Patrick's ear off.}}
+{{L|Patrick|You're right! My ears! They're gone!}}
+{{L|SpongeBob|Calm down, Patrick! You never had any ears!}}
+{{L|Patrick|Oh, yeah. ''[exhales]'' That was a close one!}}
+{{L|SpongeBob|Here we are at the lovely Copacabana beach. Oh, Brazil's beaches are the best!}}
+{{L|Patrick|We stayed out in the sun so long, that I turned pink!}}
+{{L|SpongeBob|You were always pink, Patrick!}}
+{{L|Patrick|You're right. I should really invest in some sun block.}}
+

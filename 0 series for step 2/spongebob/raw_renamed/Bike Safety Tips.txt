@@ -1,0 +1,23 @@
+{{ShortTr
+|title =  Bike Safety Tips
+|titlecard = Spongebob-feature-image-2.jpg
+|shortnumber = 3
+|shorttype = Educational shorts
+|airdate = {{Time|May 15}}, {{Time|2017}}
+}}
+{{L|''[The episode begins with SpongeBob and Patrick getting ready to go bicycling. SpongeBob puts on his helmet while Patrick puts Gary on his head.]''}}
+{{L|SpongeBob|Patrick!}}
+{{L|Gary|Meow. ''[slithers off Patrick's head]''}}
+{{L|SpongeBob|You need a helmet that fits properly!}}
+{{L|''[Patrick puts on his helmet and gives a thumbs up. However, his helmet is too tight and breaks off.]''}}
+{{L|SpongeBob|And make sure your bike is the right size. Your feet should touch the ground while sitting.}}
+{{L|''[Patrick is sitting on a really big penny-farthing.]''}}
+{{L|SpongeBob|Uh, Patrick?}}
+{{L|Patrick|''[grunts as his head sticks out of the water]'' Mine's too big.}}
+{{L|French Narrator|A little later...}}
+{{L|''[SpongeBob and Patrick ride their bicycles on the right side of the road.]''}}
+{{L|SpongeBob|Now, ride on the right side of the road and follow all traffic signs.}}
+{{L|Patrick|''[reading sign]'' "The End."}}
+{{L|Both|''[laugh]'' Together, let's make safe happen!}}
+[[Category:Transcripts]]
+

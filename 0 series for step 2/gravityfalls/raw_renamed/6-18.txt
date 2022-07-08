@@ -1,0 +1,46 @@
+{{TranscriptBox|p = Government Agency |n = Eyes}}
+'''NOTE: [[Old Man McGucket]] is the only one actually present at all times. All other speakers speak only on the TV, and are part of clips from previous episodes. When another character is talking or appears, assume that the focus has cut from McGucket to the screen, and when McGucket is talking, unless specified otherwise, assume that the focus is back on him.'''
+
+{|class="wikitable" width="100%" valign="top"
+|-
+!
+|''Open with the screen spinning and then to Old Man McGucket.''
+|-
+!McGucket
+|That number's a-haunting my dreams! That number! [[618|6-18]]!
+|-
+![[Mabel Pines]]
+|''(Screams and runs away)''
+|-
+!McGucket
+|It's everywhere. Have you seen it?
+|-
+![[Wendy Corduroy]]
+|Total mystery.
+|-
+!McGucket
+|''(Offscreen, as the TV cuts to each place he lists:)'' At the [[Mystery Shack]], in prison, at the cash register. ''(Cut back to McGucket; worriedly:)'' But what does it mean? What does it mean?
+|-
+![[Dipper Pines]]
+|We need to find out what it is!
+|-
+!McGucket
+|''(Cutting back and forth between scenes on the TV and him as he speaks)'' I got to figuring: the only thing that makes sense: it's a clue from a [[Alex Hirsch|creature in another dimension]], that we're all just drawings on a page!
+|-
+!Dipper and Mabel
+|''(TV screen is cut in half, as clips play simultaneously)'' Everything is different now.
+|-
+!
+|''Cut between McGucket, who is laughing, and the TV, which shows various characters laughing.''
+|-
+!McGucket
+|Oh, McGucket, you're losing it.
+|-
+!
+|''End.''
+|}
+{{Transcripts}}
+
+[[es:6-18/Transcripción]]
+[[Category:Short transcripts]]
+

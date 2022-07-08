@@ -1,0 +1,13 @@
+{{Transcript-incomplete}}
+{{ShortTr
+|prev = Fish Food Rescue: The Krusty Krab
+|title = The Museum of Cartoon Sponges
+|next = You Know You're From Bikini Bottom When...
+|titlecard = The Museum of Cartoon Sponges.jpg
+|shortnumber = 3
+|shorttype = Miscellaneous shorts
+|airdate = {{Time|April 28}}, {{Time|2015}}
+}}
+{{L|Narrator|Today, my friends, we welcome you to the museum of cartoon sponges. What you're about to witness is a rare collection of fine art depicting a legendary yellow sponge by the name of SpongeBob, who wears square pants.}}
+[[Category:Transcripts]]
+

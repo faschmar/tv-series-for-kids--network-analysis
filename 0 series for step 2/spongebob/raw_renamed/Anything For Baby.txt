@@ -1,0 +1,15 @@
+{{ShortTr
+|prev = Crossing the Street
+|title = Anything for Baby
+|next = Flowers for Sandy
+|titlecard = Anything for Baby.jpg
+|shortnumber = 2
+|shorttype = Best Day Ever shorts
+|airdate = {{Time|November 2}}, {{Time|2006}}
+}}
+{{L|SpongeBob|''[Gets on bus.]'' Morning! ''[Hands bus driver a tip. Sits down.]''}}
+{{L|''[A baby in the seat next to him begins crying. SpongeBob makes a funny face to try to get her to cheer up. The baby cries louder. SpongeBob continues making funny faces by going outside the bus and making faces through the window]''}}
+{{L|Baby|''[cheers up and starts laughing]'' Haha!}}
+{{L|SpongeBob|''[Gets swept up by a "Bikini Bottom 300 Mi" sign.]'' Yes! ''[Falls over.]''}}
+[[Category:Transcripts]]
+

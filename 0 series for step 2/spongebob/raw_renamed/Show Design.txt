@@ -1,0 +1,10 @@
+{{Transcript-incomplete}}
+{{SpecialTr
+|prev = The Graveyard Shift: In the Beginning
+|title = Show Design
+|next = Drawing the Goo Lagoon
+|titlecard = ShowDesign.png
+|specialnumber = 8
+|DVD = Nautical Nonsense and Sponge Buddies={{Time|March 12}}, {{Time|2002}}
+}}
+

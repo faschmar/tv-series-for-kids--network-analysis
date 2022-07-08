@@ -1,0 +1,17 @@
+{{ShortTr
+|prev = What if SpongeBob Was Gone? (Gary)
+|title = What if SpongeBob Was Gone? (Sandy)
+|next = What if SpongeBob Was Gone? (Mr. Krabs)
+|titlecard = WasGoneSandy TitleCard.PNG
+|shortnumber = 2
+|shorttype = What Ever Happened to SpongeBob? shorts
+|airdate = {{Time|October 14}}, {{Time|2008}}}}
+{{L|Narrator|What if SpongeBob was gone?}}
+{{L|''[Sandy and a big fish are in karate gloves]''}}
+{{L|Sandy|OK. So are we ready a little karate? Huh, big guy? Can you handle this? Do you think you're ready to witness these skills, ''[crushes acorns]'' this footwork? ''[juggles karate gloves]'' Is too fast for ya? ''[gloves stick out of her tongue and ears]'' Too inventive? l just wanna warn you so far and get pretty physical. Okay, Now show me your skills. Come on now, don't be shy. Let's see the old one-two!}}
+{{L|''[the big fish moves his arm and leg and loses balance]''}}
+{{L|Sandy|Dang.}}
+{{L|''[the big fish falls on Sandy]''}}
+{{L|Sandy|This is much more fun with SpongeBob.}}
+[[Category:Transcripts]]
+

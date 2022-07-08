@@ -1,0 +1,10 @@
+{{Transcript-incomplete}}
+{{PatrickStarShow EpisodeTr
+|title = Stair Wars
+|seasonnumber = 1
+|episodenumber = 2a
+|airdate = {{Flag|USA}} {{Time|July 23}}, {{Time|2021}}
+|ratings = 0.47
+}}
+{{L|''[The episode begins outside of the Star house in the early morning. The Sun is seen, looking tired. He drinks a mug of coffee and becomes hyperactive as it turns to day.]''}}
+

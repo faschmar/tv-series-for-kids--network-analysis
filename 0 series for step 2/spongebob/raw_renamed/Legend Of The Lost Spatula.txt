@@ -1,0 +1,40 @@
+{{VTab}}
+
+{{L|French Narrator|Let us join SpongeBob. Look out, SpongeBob! What is this? He has uncovered something.}} 
+{{L|SpongeBob|Wow! Mr. Krabs will know what this is! Mr. Krabs, I found a statue...}} 
+{{L|Mr. Krabs|By great neptune's beard! That statue marks the entrance to the Dutchman's underworld! A long time ago, in the city of Palm Bay there was the master fry cook who ruled with the golden spatula. But, Mt. Kabloovious buried Palm Bay starting the grease fires that ended the greasy civilization. As legend has it, the Flying Dutchman took over the cities ruins and his first mate buried the key to the city somewhere in the Goo Lagoon. Find that key boy. If you get the golden spatula, I'll be rich... Uh, I mean you would be a master fry cook. Now, you'd better go home and get your things!}} 
+{{L|Gary|Meow!}} 
+{{L|Squidward|Oh, it's you.}} 
+{{L|Patrick|Duh... Hiya, SpongeBob.}} 
+{{L|Fish|Go talk to Mrs. Puff.}} 
+{{L|Sandy|Hey there, little square dude.}} 
+{{L|Fish|Look out for the beach bullies!}}
+{{L|French Narrator|SpongeBob had found the pirates chest. There are four oven knobs needed to unlock the statue. They are hidden around Bikini Bottom... Here's a map. Look out, Flying Dutchman. Here comes SpongeBob! You have found an oven knob.}} 
+{{L|Sandy|I'm madder than a cat in a bathtub! I lost my hat in the Desert.}} 
+{{L|Patrick|Hey, SpongeBob. I lost my shorts at the Carnival. Can you find them?}} 
+{{L|Squidward|I'm not talking to you.}} 
+{{L|French Narrator|SpongeBob has found Patrick's shorts. You have found an oven knob.}} 
+{{L|Patrick|Thanks for finding my shorts, SpongeBob.}} 
+{{L|SpongeBob|Uh... No problem, Patrick.}}
+{{L|French Narrator|SpongeBob has found Ol' Reliable.}} 
+{{L|Plankton|All I want is Krabby Patty.}}
+{{L|Mr. Krabs|SpongeBob, deliver this pizza to a customer in the Kelpazonic Jungle.}}
+{{L|Pearl|Go away, SpongeBob, my friends might see you.}}
+{{L|Mermaid Man|Are you the TV repairman?}}
+{{L|Mrs. Puff|Please, SpongeBob, class is over, go away!}}
+{{L|French Narrator|SpongeBob has found Sandy's hat. You have found an oven knob.}} 
+{{L|Sandy|Gee, SpongeBob, thanks for getting my hat back.}}
+{{L|French Narrator|SpongeBob has found the Moon Man Catcher.}} 
+{{L|Fish|Are you all right, dude?}}
+{{L|SpongeBob|No... Cause, I ripped my pants!}}
+{{L|Fish|Hey, thanks. I've been waiting for this pizza! But, look out for the Jungle Fish...}} 
+{{L|French Narrator|You have found an oven knob.}} 
+{{L|SpongeBob|Oh, wow, it's opening. Hellooooo? Gee, it's a long way down. Aw, tarter sauce!}} 
+{{L|Flying Dutchman|So, you're the one who thinks he's hot stuff on a hot stove.}}
+{{L|SpongeBob|I've come for the Golden Spatula, uh, sir!}} 
+{{L|Flying Dutchman|Then, you must prove you're the best! And it's a good thing too, I haven't had a good meal in ages! Let's eat!}} 
+{{L|French Narrator|SpongeBob has found the golden spatula. Shine, sparkle, sparkle!! Now, SpongeBob is truly the greatest fry cook in Bikini Bottom.}} 
+{{L|Mr. Krabs|Yippee! I'm rich!}}
+[[Category:Transcripts]]
+[[Category:Video game transcripts]]
+

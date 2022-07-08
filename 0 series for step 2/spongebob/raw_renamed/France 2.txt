@@ -1,0 +1,22 @@
+{{ShortTr
+|title = France 2
+|titlecard = SpongeBob & Patrick Travel the World - France 2.png
+|shortnumber = 10
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|February 10}}, {{Time|2015}}
+}}
+{{L|''[A photo showing SpongeBob and Patrick flowing on the Seine River where they see the Notre-Dame cathedral in the background.]''}}
+{{L|SpongeBob|While in France, Patrick and I took a boat trip on the Seine River. What did you think?}}
+{{L|Patrick|I'd never been on top of the water before! I got sea star sick.}}
+{{L|''[A photo showing SpongeBob and Patrick at the Arc de Triomphe du Carrousel.]''}}
+{{L|SpongeBob|Then we visited the Arc de Triomphe.}}
+{{L|Patrick|It looks just like the one in New York City.}}
+{{L|SpongeBob|Uh, this one was built first. But you know what they say, imitation...}}
+{{L|Patrick|Crabmeat is delicious!}}
+{{L|''[A photo showing SpongeBob and Patrick as Invincibubble and Mr. Superawesomeness standing on the red carpet.]''}}
+{{L|SpongeBob|And we turned into Invincibubble and Mr. Superawesomeness in con to see all the movie stars. Hey Patrick, you're a movie star.}}
+{{L|Patrick|I am?}}
+{{L|SpongeBob|Yeah, we have a movie. You're a starfish. Movie star.}}
+{{L|Patrick|I am a star! Mr. SquarePants, I'm ready for my close-up!}}
+[[Category:Transcripts]]
+

@@ -1,0 +1,20 @@
+{{ShortTr
+|title = UK 1
+|titlecard = SpongeBob & Patrick Travel the World - UK 1.png
+|shortnumber = 13
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|March 2}}, {{Time|2015}}
+}}
+{{L|''[A photo showing SpongeBob and Patrick at the Big Ben.]''}}
+{{L|SpongeBob|Today, Patrick and I went on land to visit England and Big Ben.}}
+{{L|Patrick|He was nice!}}
+{{L|SpongeBob|Uh, Big Ben isn't a "he" Patrick. That's the name of the bell.}}
+{{L|Patrick|He was nice to me.}}
+{{L|''[A photo showing SpongeBob and Patrick at the ancient Stonehenge.]''}}
+{{L|SpongeBob|''[sighs]'' Here we are at ancient Stonehenge. Apologies for the photo, but after Patrick knocked down some of those rocks, we had to exit lickety-split. ''[laughs]''}}
+{{L|''[A photo showing SpongeBob and Patrick at the Molly Malone statue.]''}}
+{{L|SpongeBob|And then, we jumped across the sea to the Molly Malone statue in Ireland. Where they have a special day to celebrate Patrick.}}
+{{L|Patrick|''[singing]'' Oh, it's a birthday for me! It's a birthday for me! And it is so happy! Because it's...}}
+{{L|SpongeBob|For Patrick!}}
+{{L|Patrick|Right! It's me! ''[laughs and continues singing]'' It's my birthday! And it is happy! ''[laughs]''}}
+

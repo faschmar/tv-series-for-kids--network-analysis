@@ -1,0 +1,11 @@
+{{Coming Soon}}
+{{Transcript-incomplete}}
+{{SpecialTr
+|prev = Dying for Pie (voice-over)
+|title = Drawing Characters
+|next = The Graveyard Shift: In the Beginning
+|titlecard = DrawingCharacters.png
+|specialnumber = 6
+|DVD = Nautical Nonsense and Sponge Buddies={{Time|March 12}}, {{Time|2002}}
+}}
+

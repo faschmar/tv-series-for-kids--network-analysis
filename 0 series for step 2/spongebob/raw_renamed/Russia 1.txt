@@ -1,0 +1,17 @@
+{{ShortTr
+|title = Russia 1
+|titlecard = SpongeBob & Patrick Travel the World - Russia 1.png
+|shortnumber = 7
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|February 6}}, {{Time|2015}}
+}}
+{{L|''[A photo of SpongeBob and Patrick standing by some troika horses in Russia.]''}}
+{{L|SpongeBob|The first thing Patrick and I did in Russia was take a troika ride out to Siberia where Patrick made a new friend.}}
+{{L|''[A photo of SpongeBob and Patrick standing next to a snowman.]''}}
+{{L|Patrick|He understands me. It's almost like we share the same brain.}}
+{{L|SpongeBob|Almost indeed.}}
+{{L|''[A photo of SpongeBob and Patrick standing near a fisherman's ice hole.]''}}
+{{L|SpongeBob|When the weather gets cold and the water freezes over, many Russians love to go ice hole fishing. Just as many fish love to swim in the Russian waters peacefully, minding their own business. Not realizing that just above them, someone is plotting their doom.}}
+{{L|Patrick|To our fallen comrades.}}
+[[Category:Transcripts]]
+

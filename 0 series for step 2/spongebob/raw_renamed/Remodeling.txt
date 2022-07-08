@@ -1,0 +1,18 @@
+{{ShortTr
+|prev = Can't Swim
+|title = Remodeling
+|next = Loop dee Loop
+|titlecard = Remodeling005.jpg
+|shortnumber = 2
+|shorttype = Friend or Foe shorts
+|airdate = {{Time|April 5}}, {{Time|2007}}
+}}
+{{L|''[The short begins at Goo Lagoon where Krabs and Plankton are building sand castles.]''}}
+{{L|Plankton|Well, the inside is done and ready for action.}}
+{{L|Mr. Krabs|''[Puts a yellow flag on the top]'' Perfect. ''[giggles]''}}
+{{L|Billy|You call that a castle? ''[points to his castle with a movable sand train going in and out]'' This is a castle.}}
+{{L|Mr. Krabs|Wow, that's impressive.}}
+{{L|Billy|Duh. Here, let me help you do some remodeling. ''[jumps on their castle. Krabs and Plankton smile at each other]'' What are you smiling about?}}
+{{L|Plankton|Oh, uh, just this. ''[a spring from underneath the sand sends the fish flying]'' Bullies are so predictable.}}
+[[Category:Transcripts]]
+

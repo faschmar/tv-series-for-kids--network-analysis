@@ -1,0 +1,9 @@
+{{Transcript-incomplete}}
+{{PatrickStarShow EpisodeTr
+|title=Just in Time for Christmas
+|seasonnumber = 1
+|episodenumber = 10a
+|airdate = {{Time|December 3}}, {{Time|2021}}
+}}
+{{L|[The episode begins with the title design on the screen. The scene shows the neighborhood where Cecil is on a electric pole near his home, with a saw.]}}
+

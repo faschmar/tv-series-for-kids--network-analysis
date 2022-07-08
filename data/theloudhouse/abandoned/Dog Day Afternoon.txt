@@ -1,0 +1,9 @@
+{{STab}}
+{{BG/TC General}}
+The following is a transcript for the short "[[Dog Day Afternoon]]."
+
+==Script==
+{{Transcript}}
+
+{{TC ScriptNav}}
+

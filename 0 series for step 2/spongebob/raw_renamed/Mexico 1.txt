@@ -1,0 +1,14 @@
+{{ShortTr
+|title = Mexico 1
+|titlecard = SpongeBob & Patrick Travel the World - Mexico 1.png
+|shortnumber = 3
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|February 6}}, {{Time|2015}}
+}}
+{{L|SpongeBob|Here are the colorful boats that travel the canals in Xochimilco.}}
+{{L|Patrick|Uh, bless you.}}
+{{L|SpongeBob|No, Patrick, I said, "Xochimilco," not... ''[Sneezes]'' We learned that in Mexico, instead of Halloween, they celebrate día de los Muertos.}}
+{{L|Patrick|This Halloween, I'm gonna dress up like Patrick.}}
+{{L|SpongeBob|Uh, but, Patrick, you are Patrick.}}
+{{L|Patrick|That's why they'll never know it's me. ''[Chuckles]'' It's brilliant!}}
+

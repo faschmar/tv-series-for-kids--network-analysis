@@ -1,0 +1,22 @@
+{{ShortTr
+|prev = Traffic
+|title = The Outfit
+|next = Moldy Sponge
+|titlecard = The Outfit.jpg
+|shortnumber = 4
+|shorttype = Truth or Square shorts
+|airdate = {{Time|December 8}}, {{Time|2009}}
+}}
+{{L|Gary|Meow.}}
+{{L|SpongeBob|Help me pick out an outfit for the party, Gary Bear.}}
+{{L|Gary|Meow. ''[clattering, SpongeBob yodeling]'' Meow.}}
+{{L|SpongeBob|Too much, huh? ''[clattering, Tarzan yell]''}}
+{{L|Gary|Meow.}}
+{{L|SpongeBob|Too little? Yeah, little bit drafty, too. ''[clattering]''}}
+{{L|Gary|Meow.}}
+{{L|SpongeBob|Oh, Gary. You are a real stickler for authenticity. ''[he then returns to normal]'' Ta-dah!}}
+{{L|Gary|Meow.}}
+{{L|SpongeBob|You're right, Gary. If it ain't broke, don't fix it.}}
+{{L|Gary|Meow.}}
+[[Category:Transcripts]]
+

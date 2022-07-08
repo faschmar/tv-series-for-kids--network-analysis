@@ -1,0 +1,19 @@
+{{ShortTr
+|prev = Me Money
+|title = Pie
+|next = Can't Swim
+|titlecard = Pie.jpg
+|shortnumber = 5
+|shorttype = Best Day Ever shorts
+|airdate = {{Time|November 2}}, {{Time|2006}}
+}}
+{{L|''[SpongeBob and Patrick are making a pie. SpongeBob puts some apples and a Krabby Patty in, Patrick puts some candies, toys and his pants in, Gary puts in a bone]''}}
+{{L|SpongeBob|''[whistles and then puts the pie on the grill]'' Ah, pie fried on the grill. Just as nature intended.}}
+{{L|Patrick|''[takes the pie, forgets it's hot]'' Ahh! ''[SpongeBob takes the pie and leaves it on the window]''}}
+{{L|Squidward|''[smells the pie]'' Mm-mm! ''[eats it]''}}
+{{L|SpongeBob|Squidward, have you seen our pie? The one we spent all morning cooking, just for you.}}
+{{L|Squidward|I'm sure it'll turn up. ''[belches and Patrick's shorts come out in a bubble]''}}
+{{L|SpongeBob|Hey Patrick, we found your shorts!}}
+{{L|Patrick|Hooray!}}
+[[Category:Transcripts]]
+

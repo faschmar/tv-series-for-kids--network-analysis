@@ -1,0 +1,13 @@
+{{Transcript-incomplete}}
+{{KampKoral EpisodeTr
+|title = In Search of Camp Noodist
+|titlecard = In Search of Camp Noodist (Kamp Koral TC).png
+|prev = Cabin of Curiosities
+|next = Kitchen Sponge
+|seasonnumber = 1
+|episodenumber = 4a
+|airdate = {{Time|March 4}}, {{Time|2021}}
+}}
+{{L|''[The episode begins at Kamp Koral, where all the campers are bored while Perch perkins anounces that there are no activities for the day.]''}}
+[[Category:Transcripts]]
+

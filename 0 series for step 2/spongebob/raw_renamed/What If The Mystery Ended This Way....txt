@@ -1,0 +1,22 @@
+{{ShortTr
+|prev = SpongeLock Holmes and Dr. Patson
+|title = What if the Mystery Ended This Way...?
+|next = Balloons
+|titlecard = Whatifthemysteryendedthisway.jpg
+|shortnumber = 3
+|shorttype = The Great Patty Caper shorts
+|airdate = {{Time|March 8}}, {{Time|2011}}
+}}
+{{L|Narrator|What if the mystery ended this way?}}
+{{L|Policeman|Well, gentlemen, I believe our porter is really none other than international fugitive Orin J. Ruffy. ''[the policeman pulls off the porter's head and Squidward is underneath]'' You're not. ''[a countdown begins]''}}
+{{L|Policeman|International fugitive Orin J. Ruffy. ''[the policeman pulls of the porter's head and Sandy is underneath]''}}
+{{L|Sandy|Howdy y’all! ''[a countdown begins]''}}
+{{L|Policeman|Fugitive Orin J. Ruffy. ''[the policeman pulls off the porter's head and Patrick is underneath]''}}
+{{L|Patrick|''[laughs]'' ''[a countdown begins]''}}
+{{L|Policeman|Orin J. Ruffy. ''[the policeman pulls off the porter's head and SpongeBob is underneath]''}}
+{{L|SpongeBob|I think not. You, sir are Orin J. Ruffy. ''[SpongeBob pulls off the policeman's head and Orin J. Ruffy is underneath]''}}
+{{L|Orin J. Ruffy|Huh? ''[runs away]''}}
+{{L|SpongeBob|Huh.}}
+{{L|Narrator|Well, that was unexpected.}}
+[[Category:Transcripts]]
+

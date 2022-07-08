@@ -1,0 +1,22 @@
+{{ShortTr
+|prev = Sea Horse Riding Made Easy
+|title = Spurskate
+|next = Saloon Door Sorrows
+|titlecard = Spurskate.png
+|shortnumber = 2
+|shorttype = Pest of the West shorts
+|airdate = {{Time|April 15}}, {{Time|2008}}
+}} 
+{{L|Announcer|Are you tired of the same old recreational activities?}}
+{{L|Fish #1|''[gets hit by a horseshoe]'' Yes!}}
+{{L|Announcer|Then you need to know about Spurskate, the newest Bikini Gulch craze. ''[SpongeBuck is shown skating with spurs on his skates]''}}
+{{L|SpongeBuck|Isn't this fun?}}
+{{L|Pecos|Yeah, and anyone can do it, even me.}}
+{{L|Announcer|The Spurskate is great for anyone! You can freestyle Spurskate! ''[Hopalong is shown sawing through the floor]'' Or go extreme Spurskate!}}
+{{L|''[SpongeBuck jumps over four seahorses with flaming cactuses and breaks his legs]''}}
+{{L|Announcer|Hehe, it's up to you, so stop that walking. ''[Fish #2 gets run over by SpongeBuck]'' 'Cause the world is passing you by on Spurskates.}}
+{{L|Fish #2|Wow, what are those?}}
+{{L|Announcer|They're Spurskates, so join the rest and be your Spurskate best.}}
+{{L|Crowd|With Spurskates!}}
+[[Category:Transcripts]]
+

@@ -1,0 +1,19 @@
+{{ShortTr
+|title = France 1
+|titlecard = SpongeBob & Patrick Travel the World - France 1.png
+|shortnumber = 9
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|February 10}}, {{Time|2015}}
+}}
+{{L|''[A photo showing SpongeBob and Patrick at the Eiffel Tower.]''}}
+{{L|Patrick|I know this one! It's the Eiffel Tower!}}
+{{L|SpongeBob|Good one, Patrick! French people call her, "The Iron Lady."}}
+{{L|Patrick|She's a beauty. She is... très belle! ''[laughs]''}}
+{{L|''[A photo showing SpongeBob and Patrick at the Louvre where they are posing near the Venus de Milo statue.]''}}
+{{L|SpongeBob|But no trip to Paris would be complete without visiting the Louvre where you can see thousands of works of art including Venus de Milo. Sadly, her arms are broken off.}}
+{{L|Patrick|Oh, don't worry, SpongeBob. Happens to me all the time. They grow back.}}
+{{L|''[A photo showing SpongeBob and Patrick at the monastery at Mont-Saint Michel in Normandy, France.]''}}
+{{L|SpongeBob|We made sure to visit the monastery at Mont-Saint Michel. Patrick, did you know that some monks take a vow of silence?}}
+{{L|Patrick|Oh, I can totally do that! I could! ''[laughs]'' I don't have to talk! Ha, just watch me. Not gonna talk! ''[silence]'' I'm not talking now!}}
+[[Category:Transcripts]]
+

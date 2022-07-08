@@ -1,0 +1,19 @@
+{{transcript
+| title            = 
+| season           = 9
+| broadcastno      = 1
+| image            = Titlecard_S9E1_orb.png
+| prod             = 1042-259
+| airdate          = April 21, 2017
+| director         = [[Elizabeth Ito]]
+| story            = [[Kent Osborne]]<br>[[Jack Pendarvis]]<br>[[Ashly Burch]]<br>[[Adam Muto]]
+| writerstoryboard = [[Aleks Sennwald]]<br>[[Adam Muto]]
+| previous         = The Light Cloud
+| next             = Skyhooks
+| character        = [[Finn]]<br>[[Jake]]<br>[[BMO]]<br>[[Nightmare Princess]]<br>[[Snail]] (dream)<br>[[Joshua]] (dream)<br>[[Margaret]] (dream)<br>[[Jermaine]] (dream)<br>Banana People (dream)<br>[[Party God]] (dream)<br>[[Princess Bubblegum]] (dream)<br>[[Water Nymphs|Water Nymph]] (dream)<br>[[The Moon]] (dream)<br>[[Warren Ampersand]] (dream)<br>[[MOs]] (dream)<br>[[CMO]]s<br>[[The Lich (character)|The Lich]] (played by a CMO)<br>[[AMO]]<br>Football (mentioned)
+| location         = 
+| music            = 
+| status           = incomplete.}}
+
+==Transcript==
+

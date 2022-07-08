@@ -1,0 +1,20 @@
+{{ShortTr
+|title = Educate and Activate 2
+|titlecard = Educate and Activate 2.jpg
+|shortnumber = 3
+|shorttype = The Big Green Help shorts
+|airdate = {{Time|April 22}}, {{Time|2009}}
+}}
+{{L|''[Johnny is seen on T.V.]''}}
+{{L|Johnny|This just in. ''[shows a silent clip of SpongeBob riding the Big One with Patrick, Squidward, and Mr. Krabs while playing JKL's drums from "SpongeBob SquarePants vs. The Big One"]'' SpongeBob always treats the ocean fair and square but he needs your help. So here are some simple ways that SpongeBob and you can help save the big blue.}}
+{{L|''[clip from "SpongeBob Meets the Stranger" plays]''}}
+{{L|Johnny|''[during clip]'' Look out for litter and pick up garbage before it enters the ocean.}}
+{{L|SpongeBob|''[in clip]'' Where is all this litter coming from?!}}
+{{L|''[clip from "Boating School" plays]''}}
+{{L|Johnny|''[during clip]'' Muffle the motor. Turning off boat engines keeps harmful chemicals out of the water.}}
+{{L|''[shows a silent clip of Patrick and SpongeBob cleaning the beach with a dustpan and broom from "Sand Castles in the Sand"]''}}
+{{L|Johnny|''[during clip]'' And slash the trash.}}
+{{L|''[shows scissors cutting six-pack soda rings]''}}
+{{L|Johnny|''[during clip]'' Cutting six-pack soda rings can save the lives of countless marine animals. For more ways SpongeBob and you can save the big blue, go to nick.com/biggreenhelp.}}
+[[Category:Transcripts]]
+

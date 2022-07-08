@@ -1,0 +1,20 @@
+{{ShortTr
+|title = UK 2
+|titlecard = SpongeBob & Patrick Travel the World - UK 2.png
+|shortnumber = 14
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|March 9}}, {{Time|2015}}
+}}
+{{L|''[A photo showing SpongeBob and Patrick at the London Eye appears.]''}}
+{{L|SpongeBob|Patrick, remember when we saw the London Eye?}}
+{{L|Patrick|I think the question is "Did it see us?"}}
+{{L|''[A photo showing SpongeBob and Patrick next to a statue of a lion appears.]''}}
+{{L|SpongeBob|Look, Patrick. Trafalgar Square. Wasn't it beautiful.}}
+{{L|Patrick|No. The lions are scary.}}
+{{L|SpongeBob|Those lions won't hurt you Patrick. Why they've been there for hundreds of years.}}
+{{L|Patrick|SpongeBob, that just means they're hungry. Come on!}}
+{{L|''[A photo showing SpongeBob and Patrick next to Abbey Road appears.]''}}
+{{L|SpongeBob|Here we are at the famous Abbey Road, where we got a tip that we might meet a walrus. Coo Coo Cachoo! Unfortunately, the walrus never showed up.}}
+{{L|Patrick|I don't believe in walruses. I just believe in me... and you SpongeBob.}}
+[[Category:Transcripts]]
+

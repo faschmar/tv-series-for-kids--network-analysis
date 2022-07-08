@@ -1,0 +1,24 @@
+{{ShortTr
+|title = Germany 2
+|titlecard = SpongeBob & Patrick Travel the World - Germany 2.png
+|shortnumber = 12
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|February 12}}, {{Time|2015}}
+}}
+{{L|''[A photo showing SpongeBob and Patrick at the Neuschwanstein Castle.]''}}
+{{L|SpongeBob|Our first trip in Germany was to Neuschwanstein Castle.}}
+{{L|Patrick|''[clears throat]'' A castle? With a pretty princess?}}
+{{L|SpongeBob|No Patrick.}}
+{{L|Patrick|A... an ugly princess?}}
+{{L|SpongeBob|I'm about the best you're gonna get.}}
+{{L|''[A photo showing SpongeBob and Patrick as Invincibubble and Mr. Superawesomeness at a concert in Berlin.]''}}
+{{L|SpongeBob|Berlin is also known for its funky nightlife. There are plenty of concerts and dance clubs.}}
+{{L|Patrick|I like to boogie!}}
+{{L|SpongeBob|Don't I know it!}}
+{{L|''[A photo showing SpongeBob and Patrick at the Brandenburg Gate.]''}}
+{{L|SpongeBob|And here we are at the Brandenburger Tor. One of Germany's best known landmarks.}}
+{{L|Patrick|But does it...}}
+{{L|SpongeBob|Uh, no it does not have a pretty princess.}}
+{{L|Patrick|Okay.}}
+[[Category:Transcripts]]
+

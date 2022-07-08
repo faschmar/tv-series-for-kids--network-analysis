@@ -1,0 +1,10 @@
+{{Transcript-incomplete}}
+{{PatrickStarShow EpisodeTr
+|title = Squidina's Little Helper
+|seasonnumber = 1
+|episodenumber = 5a
+|airdate = {{Flag|USA}} {{Time|August 6}}, {{Time|2021}}
+|viewers = 0.48
+}}
+{{L|''[The episode begins at the Star House in the early morning, when Squidina's alarm clock goes off. She wakes up and turns it off.]''}}
+

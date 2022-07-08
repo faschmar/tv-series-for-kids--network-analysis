@@ -1,0 +1,18 @@
+{{ShortTr
+|prev = Shanghaied: Squidward's ending
+|title = Crossing the Street
+|next = Anything for Baby
+|titlecard = Crossing the Street.jpg
+|shortnumber = 1
+|shorttype = Best Day Ever shorts
+|airdate = {{Time|November 2}}, {{Time|2006}}
+}}
+{{L|SpongeBob|SpongeBob SquarePants at your service, for I am an honorary crossing guard. ''[Takes the old lady's hand and begins leading her across the street, with a stop sign in his other hand. Cars crash into each other.]''}}
+{{L|Old Lady|I don't...}}
+{{L|SpongeBob|You're safe with me.}}
+{{L|Old Lady|You made me miss my bus!}}
+{{L|SpongeBob|We'll see about that! ''[Gets the old lady on his back and runs after the bus. He trips and the old lady is sent flying. Eventually, she lands on the bus.]''}}
+{{L|Old Lady|Thank you, SpongeBob!}}
+{{L|SpongeBob|You're wel... ''[He is run over by a bus.]'' welcome.}}
+[[Category:Transcripts]]
+

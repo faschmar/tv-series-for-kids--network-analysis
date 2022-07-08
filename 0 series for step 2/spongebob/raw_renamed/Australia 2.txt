@@ -1,0 +1,18 @@
+{{ShortTr
+|title = Australia 2
+|titlecard = SpongeBob & Patrick Travel the World - Australia 2.png
+|shortnumber = 16
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|March 31}}, {{Time|2015}}
+}}
+{{L|''[A photo of SpongeBob and Patrick at the Sydney Aquarium with some children.]''}}
+{{L|SpongeBob|In Australia, we visited the Sydney Aquarium where some of the ocean's most dangerous criminals are locked up and came with an idea for a hit TV show, "Sponge is the New Black".}}
+{{L|Patrick|If you're interested, have your people talk to our people.}}
+{{L|''[A photo of SpongeBob and Patrick at the amusement park, Luna Park.]''}}
+{{L|SpongeBob|We had so much fun at the Luna Park in Melbourne!}}
+{{L|Patrick|My favorite ride was the Devil's Drop!}}
+{{L|SpongeBob|Not me. I was so scared, I merely soaked my sponge.}}
+{{L|''[A photo of SpongeBob and Patrick at Bondi Beach.]''}}
+{{L|SpongeBob|Oh, Bondi Beach. That's more my style. Hello, beautiful!}}
+{{L|Patrick|Hello, SpongeBob!}}
+

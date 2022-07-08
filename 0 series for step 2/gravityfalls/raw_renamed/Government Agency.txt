@@ -1,0 +1,29 @@
+{{TranscriptBox|p = Medalions |n = 6-18}}
+'''NOTE: [[Old Man McGucket]] is the only one actually present at all times. All other speakers speak only on the TV, and are part of clips from previous episodes. When another character is talking or appears, assume that the focus has cut from McGucket to the screen, and when McGucket is talking, unless specified otherwise, assume that the focus is back on him.'''
+
+{|class="wikitable" width="100%" valign="top"
+|-
+!
+|''Open with Old Man McGucket and cut between him and clips on the TV as he speaks.''
+|-
+!McGucket
+|Them city slicker [[Government Agency|government agents]] are always a-watching me. There watching all of us! I've seen them in [[Gravity Falls, Oregon|town]] at ''(Offscreen, as the TV cuts to each place he lists:)'' [[Glove Story: A Sock Opera|puppet shows]], [[Northwest Manor|fancy shindigs]], even when I'm out shopping for buckets! ''(Cut to McGucket)'' A [[List of animals#Beavers|beaver]] ran off with my old one!
+|-
+!
+|''A beaver enters.''
+|-
+!McGucket
+|''(To beaver:)'' You know what you did.
+|-
+![[Mabel Pines]]
+|Awwww, donkey shpittle!
+|-
+!McGucket
+|I betcha there's even places I missed. ''(Rubs beard)'' Hmm… ''(Offscreen, as the TV cuts to each place he lists:)'' [[Gravity Falls Swap Meet|Swap meets]], [[Woodstick|music festivals]], behind that tapestry at the Northwest mansion. [[Globnar]], [[Hoo-Ha Owl's Pizzamatronic Jamboree|penny arcades]]. ''(Cut back to him)'' Youth soccer games. Eh, go-cart tracks! ''(Laughs)''
+|-
+!
+|''End''
+|}
+[[es:Agentes del Gobierno/Transcripción]]
+[[Category:Short transcripts]]
+

@@ -1,0 +1,12 @@
+{{Transcript-incomplete}}
+{{RideTr
+|title = SpongeBob SubPants Adventure
+|titlecard = SpongeBob SubPants Adventure.png
+|ridenumber = 4
+|releasedate = {{Time|May 23}}, {{Time|2015}}
+}}
+{{L|''[the [[SpongeBob SquarePants Theme Song]] plays.]''}}
+{{L|SpongeBob|Oh hello there. You don't look like from round there.}}
+{{L|Patrick|Oh hello.}}
+[[Category:Transcripts]]
+

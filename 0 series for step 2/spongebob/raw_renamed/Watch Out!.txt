@@ -1,0 +1,15 @@
+{{ShortTr
+|title = Watch Me
+|titlecard = Watch Me.png
+|shortnumber = 2
+|shorttype = The SpongeBob SquarePants Movie shorts
+|airdate = {{Time|2004}}
+}}
+{{L|''[SpongeBob enters the Krusty Krab.]''}}
+{{L|Mr. Krabs|SpongeBob, you're late! Don't you know what a watch is?}}
+{{L|SpongeBob|Sure I do, Mr. Krabs. Watch this! ''[juggles some Krabby Patty ingredients]'' Watch that! ''[looks through the telescope]'' Watch me! ''[pulls out his eyes]'' Watch us! ''[holds a miniature SpongeBob]'' Watch your step! ''[points to Squidward with his foot in the bucket]'' Watch your head! ''[to a customer as he hits his head with a hook]'' Watch where you're going! ''[to Plankton as he was trying to steal the formula while in his police officer outfit]'' Watch this! ''[removes the tablecloth and various things are flying]''}}
+{{L|Patrick|SpongeBob, watch out!}}
+{{L|''[Everything falls on SpongeBob.]''}}
+{{L|SpongeBob|Watch out! That's a good one, Patrick! ''[laughs]''}}
+[[Category:Transcripts]]
+

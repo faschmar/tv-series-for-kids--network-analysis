@@ -1,0 +1,33 @@
+theloudhouse
+
+http://www.endmemo.com/r/gsub.php
+
+#problem_done: ♫<i>Ooooooooh</i>♫
+#line <- c("♫<i>Ooooooooh</i>♫")
+#problem_done: <u>is</u>
+#line <- c("<u>is</u>")
+#problem_done: <i>Mi-mi-mi-mi-mi!</i> 
+#line <- c("<i>Mi-mi-mi-mi-mi!</i>")
+#problem_done: ♫
+#line <- c("♫")
+#problem_done: ♫ Today's the big day!  Just got to chill the Duck Liver Pâté.  I'll show him that I'm a star with my yummy take on caviar. ♫ 
+#line <- c("♫ Today's the big day!  Just got to chill the Duck Liver Pâté.  I'll show him that I'm a star with my yummy take on caviar. ♫") 
+#problem_done: [[es:De Vuelta al Negro/Transcripción]]
+#line <- c("[[es:De Vuelta al Negro/Transcripción]]")
+#problem_done: [[Category:The Loud House Season 2 Scripts]]
+#line <- c("[[Category:The Loud House Season 2 Scripts]]")
+#problem_done: [pops up, holding a holly berry]
+#line <- c("[pops up, holding a holly berry]")
+#problem_done: [[id:A Fridge Too Far/Transkrip]]
+#line <- c("[[id:A Fridge Too Far/Transkrip]]")
+" / " 11 Louds A Leapin'.txt
+{{DEFAULTSORT:Bug's Strife, A/Script}} A Dark And Story Night.txt
+<br/> Head Poet's Anxiety.txt, Friendzy
+
+überprüfung: 
+
+Probleme
+:Friendzy: aussortieren?
+
+Back in black u
+

@@ -1,0 +1,15 @@
+{{ShortTr
+|title = Spain 1
+|titlecard = SpongeBob & Patrick Travel the World - Spain 1.png
+|shortnumber = 5
+|shorttype = SpongeBob & Patrick Travel the World shorts
+|airdate = {{Time|February 6}}, {{Time|2015}}
+}}
+{{L|''[cue "SpongeBob and Patrick Travel the World" intro]''}}
+{{L|SpongeBob|In Spain, we went to Palencia's Arts and Sciences Center.}}
+{{L|Patrick|SpongeBob, my eyes! I'm seeing double!}}
+{{L|SpongeBob|That's just a reflection on the water. Here we are in Obras Douro Square. Many Pilgrims come to visit San Tiago's tour of the confedral.}}
+{{L|Patrick|Hey, he must be one lucky guy.}}
+{{L|SpongeBob|He ain't so lucky now. Here we are in Alhambra, at the Palace of the Lions.}}
+{{L|Patrick|''[gargling]'' ...SpongeBob, they're spitting into my mouth! Ugh, this is probably how landlions feed their young. ''[cue "SpongeBob and Patrick Travel the World" outro]''}}
+

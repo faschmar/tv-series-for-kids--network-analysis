@@ -1,0 +1,176 @@
+{{Transcriptbox|"[[Sadie Killer]]"}}
+{{TranscriptH| 
+{{TD||[Open Int. The [[Big Donut]]; Daytime]}}
+{{TD||(''Steven enters the Big Donut, where a tired [[Sadie]] is seen greeting farewell to some customers.'')}}
+{{TD|[[Sadie]]|Thanks for coming.}} 
+{{TD||(''Sadie, almost unconsciously, begins to mop the floor.'')}} 
+{{TD|[[Steven]]|Hey, Sadie!}} 
+{{TD|Sadie|Hey, Steven. What'll it be?}} 
+{{TD|Steven|Sorry to be a pain, but I got kind of a long order. I hope it's not too much trouble.}} 
+{{TD|Sadie|What trouble? *chuckles* I'm a professional donut girl. *walks behind the counter*}} 
+{{TD|Steven|Okay... I'll have one jelly donut with powdered sugar on the side, three chocolate frosted, one frosted chocolate, two chocolate-frosted chocolate, one dog-nut; medium well, one coffee with milk and sugar, hold the coffee. I also have several methods of payment I'd like you to split this order across evenly.}} 
+{{TD|Sadie|Uh, what's all this for?}} 
+{{TD|Steven|Band practice!}} 
+{{TD|Sadie|You're in a band?!}} 
+{{TD|Steven|Kinda. I started jamming with [[The Cool Kids|Jenny, Buck, and Sour Cream]]!}} 
+{{TD|Sadie|Whoa! That's so cool! Aww man! I bet you guys sound amazing!}}
+{{TD|Steven|We're still trying to figure out our sound, but it's been fun just playing music with other people. It's also nice to have an outlet that doesn't involve space and [[Gems|Gem]] stuff and everything else going on. Um... You doing okay?}}
+{{TD|Sadie|Well, I worry about [[Lars Barriga|Lars]] being in space, and I hope he's safe and all, but... Ughh... Working all these shifts by myself has been a ''huge drag''. I'm totally used to doing his work, but I'm used to at least having him here to talk to. Now, I gotta do ''that'' myself, too. "''Oh, come on, Sadie, you missed a spot!''" Oh, no, sorry. *mops the floor*}}
+{{TD|Steven|Well, we'll all be practicing at Sour Cream's place tonight. Feel free to stop by if you have time.}}
+{{TD|Sadie|I'll try! Hopefully, I can finish restocking napkins early. We're always running out for some reason.}}
+{{TD|Steven|*takes a whole stack of napkins* Hmm, weird. Well, see ya, Sadie! *leaves the shop, leaving a trail of napkins*}}
+{{TD|Sadie|Bye, Steven.}}
+{{TD||[Trans. Ext. [[Onion's House|Sour Cream's House]]]}}
+{{TD||(''Steven, Jenny and Sour Cream are seen hanging outside of the garage, while Sour Cream is experimenting with his Launchpad.'')}}
+{{TD|Steven|What do ya call that style?}}
+{{TD|[[Sour Cream]]|Beachcore.}}
+{{TD||(''Buck arrives, running in with a guitar case on his back.'')}}
+{{TD|[[Buck Dewey|Buck]]|Hey.}} 
+{{TD|[[Jenny]]|What's up, Buck?}}
+{{TD|Buck|Guess who's got a gig at [[Delmarva|Delmarva's]] number-two music and seafood festival this weekend?!}}
+{{TD|Jenny|Chugi and the Woo Woos?}}
+{{TD|Sour Cream|Jack and the Frosted Tips?}}
+{{TD|Steven|7-Force?}}
+{{TD|Buck|... No, us!}}
+{{TD|Steven, Buck & Jenny|What?!}}
+{{TD|Steven|We don't even have a name yet!}}
+{{TD|Jenny|Or a set list!}}
+{{TD|Sour Cream|Or even ''one'' single song to ''put'' on a set list!}}
+{{TD|Jenny|*sighs* Guess we got a lot of work to do.}}
+{{TD||[Time-Skip; Night-time]}}
+{{TD||(''The group continues to brainstorm ideas for their band.'')}}
+{{TD|Sour Cream|What if we went for a more of a rap-a-billy style?}}
+{{TD|Jenny|No, thanks.}}
+{{TD|Steven|How about something like... *begins playing his electric guitar* ♪ ''Here we are, our hearts combining. Music and friends, our souls aligning.'' ♪}}
+{{TD|Buck|Hold on, Steven. You got a really cool sentiment going on that can resonate with a wide audience. I just feel like this seafood festival needs to hear something challenging and provocative. Check this out. *strums his guitar* ♪ ''Doo-doo.'' *strumming* ♪ ''Butt.'' *strumming* ♪ ''The government.'' *strumming* ♪ ''Corrupts.''}}
+{{TD|Jenny|Hold on there, Bucky D. I'm all for being socially conscious and waking people up inside, but people are gonna be at this seafood fest to have ''fun''! Let's give them something they can dance to! Sour Cream, give me a beat!}}
+{{TD|Sour Cream|A what?}}
+{{TD|Jenny|A beat!}}
+{{TD||(''With her voice captured, Sour Cream uses the Launchpad to create a beat with Jenny's voice.'')}}
+{{TD|Jenny|Oh, yeah! Let's spice it up!}}
+{{TD||(''Jenny begins playing a funky riff on her bass.'')}}
+{{TD|Steven|Cool.}}
+{{TD|Sour Cream|Yeah! And then how about some...}}
+{{TD||(''Sour Cream makes some screeching tones on the Launchpad, startling Jenny.'')}}
+{{TD|Jenny|WHAT THE HECK, SOUR CREAM!?}}
+{{TD|Sour Cream|What? Can't let your audience get too comfortable.}}
+{{TD|Steven|Maybe we should just call it a night, and try again tomorrow.}}
+{{TD|Jenny|Agreed.}}
+{{TD||(''Just then, Sadie arrives.'')}}
+{{TD|Sadie|Oh, hey, guys! Sorry, I'm so late. Took longer to close up than I thought it would. Ya'll still practicing?}}
+{{TD|Jenny|Oh sorry, Sadie, we just wrapped up. We were getting nowhere.}}
+{{TD|Sadie|Aww shoot! I really wanted to hear you guys. Well, let me know if you have another band practice when I'm not working. See ya, guys. *walks off*}}
+{{TD|Jenny|Bye, Sadie!}}
+{{TD|Buck|Bye, Sadie!}}
+{{TD|Sour Cream|Later.}}
+{{TD|Jenny|See ya, girl.}}
+{{TD||(''Steven looks on with pity as Sadie leaves.'')}}
+{{TD||[Trans. Ext. [[Miller Residence]], The Next Afternoon]}}
+{{TD||(''Sadie returns home one afternoon, holding a bag of donuts, and is about to enter her house, when...''}}
+{{TD|Steven|Hi, Sadie!}}
+{{TD|Sour Cream|Hey, how's it goin'?}}
+{{TD|Buck|S'up?}}
+{{TD|Jenny|Hey, girl.}}
+{{TD|Sadie|*startled* Whoa! Hey, guys! I just got home from work. *chuckles*}}
+{{TD|Steven|We know. We followed you. Sorry if that's weird.}}
+{{TD|Buck|We know how busy your schedule is, so, we decided to bring the jam to you.}}
+{{TD|Sadie|Aw, shucks, guys! But... *groans nervously* [[Sadie's Room|My room]] is such a mess right now. Okay, ah- okay, just give me a moment to tidy up!}}
+{{TD||[Trans. Int. Sadie's Room]}}
+{{TD||(''Sadie puts away a pile of clothes, as the group enters her room.'')}}
+{{TD|Jenny|Dang, Sadie! You've got so much space in here!}}
+{{TD|Sour Cream|Yo, Sadie, do you have any free outlets to plug into?}}
+{{TD|Sadie|*hides her movies under her blanket* Oh, yeah, check over by the TV.}}
+{{TD||(''The group begins setting up their music instruments.'')}}
+{{TD|Jenny|Let's get serious now. The show is this weekend!}}
+{{TD|Buck|Wait... I can't really... feel the music in this... cramped spot. *walks over to Sadie's bed* This looks comfy.}}
+{{TD|Sadie|No, wait!}}
+{{TD||(''Buck sits on Sadie's bed, and crunching noise are heard underneath the blanket.'')}}
+{{TD|Buck|Aw, doo-doo. I think I broke your bed.}}
+{{TD|Sadie|Gah!}}
+{{TD||(''Sadie shoves Buck off her bed and lifts the blanket to see if her video cassettes are okay.'')}}
+{{TD|Sour Cream|Whoa! Scary movies! Hey, Sadie, you've got a dark side.}}
+{{TD|Sadie|It's more of a... ''dork'' side.}}
+{{TD|Jenny|Hey, is that "The Lurch"?}}
+{{TD|Sadie|You know this one?}}
+{{TD|Jenny|Yeah! It's a classic! I can't believe you have a copy! Guys, we have to watch this.}}
+{{TD||[Time-Skip]}}
+{{TD||(''The group watches the movie on Sadie's TV with the lights off. On-screen, groaning gray zombies approach a man and woman huddled in fear.'')}}
+{{TD|Zombie (TV)|Brains... *groans*}}
+{{TD||(''The woman in the movie then screams in fear.'')}}
+{{TD|Sadie|I can't believe you like this one. Not everyone appreciates Bulgarian horror.}}
+{{TD|Steven|*covers his eyes in fear* Uh, guys, don't we need to find our sound?}}
+{{TD|Sour Cream|I kinda like ''this'' sound.}}
+{{TD||(''Sour Cream walks over to his laptop and adds a dark electronic beat over the eerie music from the movie.'')}}
+{{TD|Jenny|Ooh. I like that.}}
+{{TD||(''Jenny picks up her bass and adds a rhythmic tune to the music.'')}}
+{{TD|Steven|And then, we can do this.}}
+{{TD||(''Steven begins strumming his electric guitar in short rhythms.'')}}
+{{TD|Buck|Now, we just need some provocative lyrics.}}
+{{TD|Sadie|...♪ ''Tired... from work.''}}
+{{TD|Buck|Nice.}}
+{{TD|Sadie|*chuckles* ♪ ''Hate... my job.''}}
+{{TD||(''Buck adds an acoustic solo to the music, and Sadie begins to sing.'')}}
+{{TD|Sadie|''♪ I really oughta be in mourning, / But I've got another shift this morning. / Every day feels like it's never-ending. / What's the point of all this time I'm spending, / '''Here...''' / At this, / '''Dead-end job!''' / Ooh! / We are '''[[the Working Dead]]'''. / And we lurch for '''minimum wage.''' / But I'd really rather be... / '''Eating your brain!''' ♪''}}
+{{TD||(''Sadie starts to roam the room more intensely, intimidatingly taunting each of the band members with her song lyrics.'')}}
+{{TD|Sadie|''♪ Look at you - You seem so bright and healthy. / ♪ And your minds are full of joy and wonder. / Stay a '''thousand miles''' from the condition, / That I've got from all the stress I'm under. / Don't come near me or you might encourage, / All these terrifying sudden urges. ♪''}}
+{{TD||(''Sadie begins rummaging through her closet while the others look on anxiously. She then puts a jacket and smudges a red lipstick over her eyes, creating a gothic appearance.'')}}
+{{TD|Sadie|''♪ Seeing you makes skipping work so tempting. / Don't you know that in the night, I'm temping, / '''Here...''' / At this, / '''Dead-end job!''' / Ooh! / We are '''the Working Dead'''. / And we lurch for '''minimum wage.''' / But I'd really rather be... / '''Eating your brain!''' ♪''}}
+{{TD||(''Sadie chomps into a jelly-filled donut, squirting the red jelly out like blood, as the woman from the movie screams in terror.'')}}
+{{TD|Steven, Buck, Jenny & Sour Cream|Whoa!}}
+{{TD|Steven|Sadie, that was awesome!}}
+{{TD|Jenny|Yeah, girl, yeah!}}
+{{TD|Sour Cream|That was so rad!}}
+{{TD|Buck|You're not Sadie Miller. You're Sadie ''Killer''.}}
+{{TD|Jenny|This is it! This is our sound! Sadie, you should be our frontman!}}
+{{TD|Sadie|Really?! *chuckles* Wow, I... Uhh, wait, no, I can't. Ugh, I've got to work tomorrow. Actually, you guys should probably pack up. I got to get some rest before my shift.}}
+{{TD||(''The groups stare at Sadie in somber.'')}}
+{{TD|Buck|Aww, doo-doo.}}
+{{TD||[Trans. Int. the Big Donut, The Next Day]}}
+{{TD||(''Sadie is wiping the glass donut cabinet, when Steven enters and idles excitedly.'')}}
+{{TD|Sadie|Hey. What're you doing here?}}
+{{TD|Steven|I was just wondering if I could get some advice. We've been trying to write some more spooky songs without you, but... They sound so phony coming from me. "Rawr, I'm a bad, bad boy!" Yeesh... I don't know. I can't do it like you. You got any tips?}}
+{{TD|Sadie|Let's see. First, lose your youth to your boring job. Then, lose the only person you've ever felt truly close to. And then, lose your mind working all his shifts.}}
+{{TD|Steven|I don't think I can do all that before the show tomorrow. *chuckles nervously* Are you sure you can't come?}}
+{{TD|Sadie|I'm the only employee at the shop. I can't just leave. Singing is fun, and-and being in the band would be really fun, like the most fun ever. Bu-But a lot of things could be a lot of things. This job is a drag, but at least I ''know'' it's a drag. It's normal. There's something nice about that, you know? Hanging out, singing and stuff, it feels so not normal. It's like- You ever feel so bad that you feel good? Like, when you get so cold that it burns. Sometimes, I just want to scream my guts out. Well, no, not my ''guts'', but whatever thing is squirming ''in'' my guts.}}
+{{TD|Steven|*scribbling notes* Wow! Tha-that's poetry! You're such a natural at this! All right, I'll try my best. How's this? ''♪ Hate my job! Hate my job! Obligations! No vacations! Kinda saaaaad! ♪''}}
+{{TD|Sadie|Do I really sound like that?}}
+{{TD|Steven|No, no, y-you sing it like it's really a problem for you. Don't worry, I'll get it, I promise. *singing to himself* ''♪ Squirming in my guts, "I got to sell donuts." Big Donut! ♪'' *humming*}}
+{{TD||(''Steven grabs some napkins, scattering a few on the floor, before leaving, and Sadie looks down, contemplating.'')}}
+{{TD||[Trans. Ext. [[Fish Stew Pizza]], Dusk]}}
+{{TD||(''The Cool Kids are waiting by [[Jenny's Car]] at the parking lot behind the pizzeria.'')}}
+{{TD|Sour Cream|I can't believe your car can hold all these amps.}}
+{{TD|Steven|Hey, guys.}}
+{{TD|Buck|Hey~ It's Steven Universe. Is that the scariest jacket you could find?}}
+{{TD|Steven|Mmhmm. Hope it doesn't scare anyone ''too'' much.}}
+{{TD|Jenny|So... No Sadie Killer, huh?}}
+{{TD|Steven|'Fraid not. She's just... too busy with work.}}
+{{TD|Jenny|Aww, man!}}
+{{TD|Sour Cream|This gig won't be the same without her.}}
+{{TD|Buck|All right, Steven, you're gonna have to up your scary game to fill Sadie's shoes.}}
+{{TD|Steven|Got it! *tries to be scary* '''Rawr!'''}}
+{{TD|Buck|You can't help being cute, no more than I can help being cool. Let's go.}}
+{{TD|Steven|Okay...}}
+{{TD||(''The group gets into Jenny's car and she begins to drive off.'')}}
+{{TD|Jenny|Buckle up, ya'll.}}
+{{TD|Sour Cream|Hope the seafood at this thing is good.}}
+{{TD|Jenny|So, where is this place exactly?}}
+{{TD|Buck|I gave you the directions.}}
+{{TD|Jenny|Oh, that tiny piece of paper? *stops the car* Where'd I put it?}}
+{{TD|Steven|Did it fall under the seat?}}
+{{TD|Sour Cream|I don't see it back here.}}
+{{TD|Buck|Yo, what if this... was all a dream?}}
+{{TD|Jenny|*scoffs* This is not-}}
+{{TD|Sadie|Hey!}}
+{{TD||(''Just then, Sadie is seen running from behind up to the car.'')}}
+{{TD|Sadie|Wait up! *panting*}}
+{{TD|Steven & Jenny|*excitedly* Sadie!}}
+{{TD|Sadie|*catches up to the car, and catches her breath* I can do it! I can do the show! I can come!}}
+{{TD|Jenny|All right! Yeah!}}
+{{TD|Steven|*in relief* Oh, thank goodness!}}
+{{TD|Sadie|*hops onto the car* And I can come to practice, and I can come to the next show, and the show after that!}}
+{{TD|Steven|But Sadie, don't you have work?}}
+{{TD|Sadie|Heh! I '''''QUIT!'''''}}
+{{TD||(''Sadie takes off her Big Donut uniform, as the star iris closes in on her smug face.'')}}
+{{TD||[END]}}}}
+{{Transcriptnav}}
+

@@ -1,0 +1,16 @@
+{{ShortTr
+|prev = Time Machine
+|title = Lessons Learned
+|next = And Krabs Saves the Day
+|titlecard = Lessons Learned.jpg
+|shortnumber = 2
+|shorttype = Back to the Past shorts
+|airdate = {{Time|June 14}}, {{Time|2011}}
+}}{{L|SpongeBob|''[in the time machine]'' Patrick, with this time machine, we can go back to the past and make our young selves wiser.}}
+{{L|Patrick|That's difficult to imagine, but I'd like to see us try. ''[he presses the go button]''}}
+{{L|''[the time machine goes back in time and lands behind their younger selves]''}}
+{{L|SpongeBob|Well, it's never too early to start your education, young man! That's why I brought you this. ''[he holds out a miniature spatula for his baby self]'' Order up, little fella. ''[Baby SpongeBob starts flipping patties]'' I'm so proud of him. Okay, your turn, Patrick.}}
+{{L|''[Baby Patrick is sleeping and snoring on top of a little rock]''}}
+{{L|Patrick|Nah, I'm good.}}
+[[Category:Transcripts]]
+

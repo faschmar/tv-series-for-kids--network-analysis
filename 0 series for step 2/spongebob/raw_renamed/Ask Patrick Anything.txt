@@ -1,0 +1,36 @@
+{{ShortTr
+|title = Ask Patrick Anything
+|titlecard = Ask Patrick Anything.png
+|shortnumber = 1
+|shorttype = Interactive shorts
+|airdate = {{Time|November 30}}, {{Time|2014}}
+}}
+{{L|Narrator|Ask Patrick Anything!}}
+{{L|''[Patrick's rock appears and Patrick comes out]'' }}
+{{L|Narrator|You can ask this sincere sea star and his magic rock anything, and he'll certainly have an answer for you.}}
+{{L|Patrick|Yes sir! Just like a genie!}}
+{{L|Narrator|Let's try together. Patrick, is tomorrow going to be a good day?}}
+{{L|''[the rock closes and shakes]''}}
+{{L|''[Patrick comes out again]''}}
+{{L|Patrick|''[says yes repeatedly]''}}
+{{L|Narrator|Told ya. He knows everything.}}
+{{L|Narrator|Now you think of a question. That's right. You. Any question, got it? Ask now!}}
+{{L|''[the rock closes and shakes]''}}
+{{L|''[Patrick comes out again]''}}
+{{L|Patrick|My head is saying yes, but my tummy is saying no. And I always trust my tummy, so, no.}}
+{{L|Narrator|There's your answer. But before another question, ask Pat!}}
+{{L|''[the rock closes and shakes]''}}
+{{L|''[Patrick comes out again]''}}
+{{L|Patrick|You'll find the answer in your heart. Or, is it butt?}}
+{{L|Narrator|Hmm, probably not the answer you expected. Now viewer, think of a really big question. Ready, Set, Ask!}}
+{{L|''[The rock closes and shakes]''}}
+{{L|Narrator|What say you now, all seeing Patrick?}}
+{{L|''[Patrick comes out again]''}}
+{{L|Patrick|I have one answer, and one answer only. ''[whispering]'' Applesauce.}}
+{{L|Narrator|Umm, Patrick, wanna try that again?}}
+{{L|Patrick|Ask later. I'm busy.}}
+{{L|Narrator|Umm, that was... Ask Patrick Anything!}}
+{{L|Patrick|The inner machinations of my mind are an enigma.}}
+{{L|Narrator|They certainly are, Patrick. They certainly are.}}
+[[Category:Transcripts]]
+

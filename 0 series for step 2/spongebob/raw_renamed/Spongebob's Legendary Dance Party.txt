@@ -1,0 +1,19 @@
+{{ShortTr
+|prev = And Krabs Saves the Day
+|title = SpongeBob's Legendary Dance Party
+|next = Things to Do When Encountering Legendary Creatures
+|titlecard = SpongeBob's Legendary Dance Party - Titlecard.png
+|shortnumber = 1
+|shorttype = Legends of Bikini Bottom shorts
+|airdate = {{Time|November 16}}, {{Time|2010}}
+}}
+{{L|Narrator|It's SpongeBob's Legendary Dance Party!}}
+{{L|SpongeBob|Hey everybody! It's time to dance!}}
+{{L|SpongeBob|Do the cyclops! ''[pushes his eyes together to form one eye and starts whooing]''}}
+{{L|Plankton|Ha-ha, I like it.}}
+{{L|SpongeBob|Now, do the sea monster! ''[turns into sea monster and starts roaring]''}}
+{{L|Patrick|Ooh! ''[Patrick wants to do a sea monster, but he breaks his back and his back bone pops out]'' Ow!}}
+{{L|SpongeBob|Patrick, are you okay?}}
+{{L|Patrick|It's just my new dance move. I call it... "the horrible mistake."}}
+[[Category:Transcripts]]
+

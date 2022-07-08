@@ -1,0 +1,162 @@
+{{Transcript
+|season = 5
+|broadcastno = 28
+|image = Titlecard S5E28 Bemore.PNG
+|prod = 1014-136
+|airdate = July 22, 2013
+|director = [[Steve Wolfhard]]<br>[[Tom Herpich]]
+|story = [[Kent Osborne]]<br>[[Pendleton Ward]]<br>[[Patrick McHale]]<br>[[Rebecca Sugar]]<br>[[Tom Herpich]]<br>[[Steve Wolfhard]]
+|writerstoryboard = [[Tom Herpich]]<br>[[Steve Wolfhard]]
+|previous = Jake Suit
+|next = Sky Witch
+|character = [[BMO]]<br>[[Finn]]<br>[[Jake]]<br>[[Moe]]
+|location = [[MO Co.|MO Factory]]<br>[[Tree Fort]]
+|status = complete.}}
+
+==Transcript==
+{{L|[''Episode starts at [[Finn]] and [[Jake]]'s [[Tree Fort]]. [[BMO]] climbs into a dark room with assorted objects.'']}}
+{{L|BMO| Hello?}}
+{{L|[''BMO climbs down a ladder to get into the room. He finds a cardboard box and hides underneath it. He starts chuckling. On his screen, a digital hand selects some files. The hand drags the files into an onscreen trash can, deleting them. BMO's screen glitches, and BMO seems woozy. He chuckles and then looks normal. Scene switches to outside of the box. We hear BMO doing the same act once more and then BMO gets out of the box. He still seems dizzy. We see him selecting the file "CORE SYSTEM DRIVES.sys" and then deleting it. The scene shows his face, which turns from a smile into a frown. BMO's screen glitches out wildly as BMO moans. BMO gets up and wanders around for a second, before falling over. The screen is blank.'']}}
+{{L|Finn| BMO?}}
+{{L|[''Scene shows Finn and Jake looking down at something. The image is distorted.'']}}
+{{L|Jake| BMO?}}
+{{L|[''BMO is lying in a bed. BMO wakes up.'']}}
+{{L|Finn| BMO, are you okay?}}
+{{L|Jake| What did you do?}}
+{{L|BMO| It wasn't me. I didn't do noth- do noth- do nothing. [''BMO repeats 'do noth-' because of his system glitching.'']}}
+{{L|Finn| Come on BMO. We got to get you to the hospital or whatevs.}}
+{{L|BMO| No, no. I am fine. Really. [''BMO's screen glitches out and BMO yells in pain. He emits smoke and stops glitching.''] Oh, yes. Okay. Please take me to get fixed. I need- need- need- need to get new core system drivers installed. We can get them at the [[MO Co.|MO Factory]] in the [[Bad Lands]], where I was born.}}
+{{L|Finn|The MO Factory?}}
+{{L|BMO| Yeah. I am programmed with emergency instructions to get there. Come on! There's no- no- no- no- no time to lo- lo- lo- lo- lose.}}
+{{L|[''Scene changes to Bad Lands, just outside the MO Co. BMO is telling Finn and Jake where to go.'']}}
+{{L|BMO|Okay. Now straight down this place. Okay, now take a right- right- right- right- left up here. The instructions also say that damaged MOs get a full memory-wipe before repairs. Don't let on what happened... or all the years we've been spent together will vanish like tears in the oven!}}
+{{L|Finn|Tears in the oven? [''gloomy sounds''] But memories are real, real cruc'[''ial'']!}}
+{{L|BMO| Yeah, no fooling. Oh wait, there's more! It says here only MOs are allowed in the factory. Wait what? Oh, that's just ''great''.}}
+{{L|Jake| Hey, hey. Don't worry buddy. We're Finn and Jake, remember? Or should I say... [''Jake transforms into a MO.''] Finn and JMO!}}
+{{L|BMO| [''laughs''] Wow!}}
+{{L|Finn| Hey BMO, check this out, too! [''Finn puts his backpack on BMO's arms. He pulls his arms into his sleeves and pulls his shirt up over his head and over BMO's legs, making it seem like Finn has BMO for a head.''] Meet FMO.}}
+{{L|BMO|Finn, you're dumb- you're dumb- you're dumb- you're da man! This is gonna be a snap!}}
+{{L|[''Scene changes to inside of the entrance of the MO factory. Finn falls over.'']}}
+{{L|Jake| Hello, there.}}
+{{L|DMO| Greetings, and welcome to MO Co. I'm [[DMO]]. Please state your business.}}
+{{L|Jake| Hey there, DMO. I am JMO.}}
+{{L|Finn| And I'm FMO!}}
+{{L|DMO| Greetings, JMO. FMO, you look ridiculous. Are you damaged? Are you in need of repair?}}
+{{L|Finn| Yes, absolutely. Thanks, DMO. I busted my core system drivers, and now I need new ones.}}
+{{L|DMO| Fantastic. Okay. Please get ready for your total personality wipe.}}
+{{L|[''A hole opens in the wall beside DMO and an EMO comes out, twirling a lasso.'']}}
+{{L|Finn| Oh, right, right. Uh, right. I mean, no. I'm just here for the... nostalgic purposes.}}
+{{L|DMO| Ah, yes. 47.3% of MOs eventually return to the factory for assorted sentimental biz. Please step 100% on the ultra-tram for your complimentary tour.}}
+{{L|[''Finn and Jake step onto the tram. DMO is lowered from his original position, and a chair pops up on the tram, bringing up DMO to the driver seat.'']}}
+{{L|DMO| Greetings. [''He starts the tram.'']}}
+{{L|Finn| Wup!}}
+{{L|DMO| We are now passing over the famous factory floor. Birthplace of each and every MO. Behold the gleaming machinery! Teeming and wild with the throes of real creation. From this unlikely chaos emerges every shiny new MO.}}
+{{L|Jake| But nothing's moving down there. It's all shut down. What happened to this place?}}
+{{L|DMO| I'm sorry. I'm just a tram MO. I'm not programmed to understand that question. Also, you're just a JMO. You're not programmed to ''ask'' that question.}}
+{{L|Jake| Uh, what question?}}
+{{L|DMO| That question- [''grunts with frustration'']}}
+{{L|Jake| I'm serious...}}
+{{L|DMO| Anyway, MO Co. was founded over 1,000 years ago. By [[Moe|Moseph Mastro Giovanni]]. A sad and gentle man. Beloved by only those he built to belove him. On your left, you'll see the core system driver installation port bay.}}
+{{L|BMO| [''gasps''] Finn! Finn! That's it! That's where the driver ports are!}}
+{{L|Finn| I know, I heard!}}
+{{L|[''Finn jumps off of the tram and into the room along with Jake.'']}}
+{{L|DMO| What?! Are you crazy?! Get back here!}}
+{{L|[''The room has outlets in the back of the wall. They each correspond to a different MO from AMO-GMO. The B port is covered up.'']}}
+{{L|Jake| Hurry, Finn. I think he's calling the police or somethin'!}}
+{{L|Finn| None of these ports fit right! E, D, C, where's the B port?!}}
+{{L|[''Outside of the room where the trams travel, a new tram drives up, carrying four [[SMO]]s.'']}}
+{{L|SMO 1| Intruder spotted! Prepare to vaporize! Vaporize!}}
+{{L|[''The four SMOs shoot lasers into the room. Finn and Jake jump behind some wreckage to protect themselves.}}
+{{L|SMO 1| Cease fire! No intruder spotted. Vaporization complete.}}
+{{L|SMO 2| Um, but what if they slipped past us, sir? In all the smoke?}}
+{{L|SMO 1| Allllright, everyone. About face. [''All four SMOs turn around.''] Does anyone see the intruders now? [''The other three SMOs look around as the first SMO looks annoyed.''] Like I ''said'', vaporization complete. Now let's head back to base. It's donut o' clock.}}
+{{L|[''Scene changes to a kind of office kitchen. There is a table with chairs, a vending machine, a refrigerator and a microwave.'']}}
+{{L|SMO 3| Man, how about those goofs? Tryin' to mess with our drivers?}}
+{{L|SMO 4| Yeah. You know the world these days. All goofs. [''SMO 4 takes his gun and gets donuts out of the vending machine with it.'']}}
+{{L|SMO 1| Hey! You toss me one of them 'nuts? [''SMO 4 tosses him a donut while SMO 3 pours coffee on his screen, as if to drink it.''] Ah. Yeah, hey, speaking of goofs? Haven't seen SMO 5681 lately.}}
+{{L|SMO 3| [''while rubbing a coffee mug on his side''] Man, that goof.}}
+{{L|SMO 1| Yeah, I hate that goof. [''SMO 1 rubs the donut on his screen like he is eating it.''] You ever notice goofs always askin' how you're doin'? What is that? Uh, yeah, I'm fine.}}
+{{L|SMO 3| Yeah, 100%.}}
+{{L|[''SMO 4 tries to throw donuts straight from the bag into his mouth, but they keep hitting the screen and falling to the floor. From somewhere in the room, the sound of feet walking gets SMO 1's attention.'']}}
+{{L|SMO 1| Oh! Hey, what are you doing over there by yourself?}}
+{{L|[''An SMO with an orange screen and orange legs turns around.'']}}
+{{L|SMO 5| Uh, oh, I-- I'm sad.}}
+{{L|SMO 1| Oh, yeah, y'know we've all been there. [''to the other SMOs:''] So anyway, how's your goofy wife doin'?}}
+{{L|[''The scene pans over to SMO 5. We see the inside of SMO 5, which is really just Finn, BMO, and Jake hiding inside an SMO shell. They are using Jake as the face and legs of the SMO.'']}}
+{{L|Finn| [''whispering:''] BMO, how are you doing?}}
+{{L|BMO| Get me close to that guy's port. I can hack into his computer and find out where my driver port is! [''BMO's screen shows him barfing.'']}}
+{{L|Jake| Ah, we gotta hustle!}}
+{{L|SMO 1| [''in response to something someone else said:''] Yeah, pretty good, I guess. I prefer something yeastier. The wife is always giving me grief about that. But I mean, what am I, decent?}}
+{{L|[''Inside the SMO shell, while SMO 1 is talking, Jake takes a cord from BMO and plugs it into the back of SMO 1. Suddenly, SMO 1's face is shocked and is then frozen as BMO accesses the file "MAP.MO". He starts shaking.'']}}
+{{L|SMO 4| Hey, what are you two goofs doin'? Goofing?}}
+{{L|[''We see inside the SMO shell again, and we see the map on BMO's screen. The map scrolls down to the bottom.'']}}
+{{L|Jake| Dang, man, how deep does this place go?}}
+{{L|Finn| Down, right, left, down, corkscrew, down. [''memorizing it:''] Down, right, left, down, corkscrew, down.}}
+{{L|[''They throw down SMO 1 and jump out of the shell.'']}}
+{{L|Finn| Psych! [''Finn, Jake, and BMO start running away.'']}}
+{{L|SMO 3| Hey, woah!}}
+{{L|[''The three get to a metal grate.'']}}
+{{L|Finn| Down that grate!}}
+{{L|[''Jake breaks it and they go under it. We see seven SMOs after them, telling them to stop. The scene changes to below the grate. The three fall down perfectly timed with the tram, driven by DMO. They land right on top of it. They look behind them and see an SMO poking his head out of the ceiling.'']}}
+{{L|DMO| Hey! Only MOs are allowed in the facility 1,000%! [''DMO walks down to where Finn, Jake, and BMO are.''] Get off of my tram!}}
+{{L|Jake| Cram your tram! [''Jake minimizes to DMO's size. He runs over and kicks DMO off of the tram.''] Womp!}}
+{{L|[''Finn turns to look at him and gives smiles at him, raising his fists in the air. Jake pulls a lever by the driver's seat, making them go even faster. Finn laughs and looks down at BMO.'']}}
+{{L|Finn| Hang in there, BMO!}}
+{{L|[''BMO flashes a weak thumbs up on his screen.'']}}
+{{L|Finn| Hey, Jake! Can this thing go any fast-}}
+{{L|[''Finn is interrupted by an explosion behind him. He and BMO are thrown to the front of the tram.'']}}
+{{L|Finn| Woah! Shoot, it's the fuzz!}}
+{{L|[''Behind them, a tram with ten SMOs and DMO is following them.'']}}
+{{L|DMO| Hit 'em again!}}
+{{L|[''The SMOs shoot the tram. Almost half of the tram is gone.'']}}
+{{L|Finn| Holy-}}
+{{L|Jake| Finn, how are we getting to BMO's driver port?!}}
+{{L|Finn| Uh, turn right!}}
+{{L|[''Jake turns the tram right. The SMOs tram continues forward, but using a shortcut, they get behind them again.'']}}
+{{L|Finn| Dog it, they're still behind us! ["They drive through a 2D DNA-like path. Unlike a strand of DNA, there is only one looping part. Finn and Jake are driving in a straight line down the middle of the 'DNA' as the SMOs tram loops around them.'']}}
+{{L|Finn| Turn left!}}
+{{L|[''They drive through a road beneath another. The SMO's tram goes on the top road.'']}}
+{{L|Finn| Turn [[wikipedia:Roller coaster elements#Corkscrew|Corkscrew]]!}}
+{{L|[''They now drive in a 3D DNA-like path. This time, there ''is'' two curves. The two trams loop around each other. Eventually, they merge into one track.'']}}
+{{L|Finn| Now go down!}}
+{{L|[''Jake makes the tram face completely downward. Finn, Jake, and BMO fall off. Jake stretches into a shield below them. They break through three different floors. One room has a B port, but they fall too quickly.'']}}
+{{L|Finn| There's a driver port!}}
+{{L|[''In the last room they fall through, Jake turns into a parachute. They land on the floor of a huge, white room. Finn and Jake groan with their pains from falling.'']}}
+{{L|Finn| Too spicy.}}
+{{L|Jake| My bod!}}
+{{L|[''Behind them, ten SMOs and DMO from the tram fall through the ceiling, crashing on top of one another.'']}}
+{{L|SMO 6| Non-MOs are forbidden in this facility!}}
+{{L|BMO| [''weakly:''] I am not non-MO.}}
+{{L|[''SMO 6 still charges his laser gun'']}}
+{{L|BMO| [''louder:''] I am BMO!}}
+{{L|[''SMO 6 shoots his laser at the ceiling so he doesn't shoot anybody.'']}}
+{{L|SMO 6| [''whispering, in awe:''] BMO.}}
+{{L|[''A light flashes in the faces of the SMOs.'']}}
+{{L|Moe| BMO? Did I hear BMO?}}
+{{L|Jake| Wait, what's up?}}
+{{L|[''We see the lights are coming from a room with MMO and Moe. MMO takes Moe out of his chair and cradles him. MMO carries him down to where Finn, Jake, the SMOs and where DMO is, with little unknown MOs trailing behind, holding life support equipment and tools'']}}
+{{L|Moe| Hey, I'm Moe! [''Moe taps MMO twice on the head. MMO drops him. Moe laughs.''] Don't worry! My legs don't work!}}
+{{L|Finn| You're Moe?! Wait, are you human, too?}}
+{{L|Moe| My skin is human!}}
+{{L|Jake| Dude, how old are you?!}}
+{{L|Moe| Hey, come on, now! [''Moe crawls over to where BMO is. He turns him so BMO is sitting down.''] It ''is'' BMO! Looks like there's some software problems! [''Moe turns BMO off. He opens his face plate. He looks at the inside of him with a frown.''] Hmm.}}
+{{L|Finn| So...you made BMO?}}
+{{L|Jake| [''Jake stretches to a large size.''] Hey, you're not gonna reset our friend's personality, are you?}}
+{{L|Moe| Huh? What? No...BMO's one of a kind. I built BMO to take care of my son. [''A [[CMO]] brings over a screwdriver.''] Oh, thank you. But I guess I never ended up dating any women. So, that's sad. [''Moe chuckles.''] I sent BMO off into the world alone. [''Moe coughs a couple of times while saying:''] Hoping to find a family home. And then maybe even find somebody else's little boy to take care of.}}
+{{L|Finn| Aw.}}
+{{L|Moe| Oh, there's that back-up driver disk! [''A CMO is holding a small floppy disk.''] Thank you. [''The CMO gives him the OK sign and smiles.''] [''Moe puts the disk drive into a slot in BMO. Some lights flash. The system shoots the disk back out.''] That oughta done it. I must've built what, like, a million MOs. But BMO is very, very special. I built BMO to understand fun. And how to ''play''. [''extends an arm and something makes a cracking sound''] You see, I made BMO to be more. [''Moe turns BMO on.'']}}
+{{L|BMO| Ooh! Are you my grandpoop?}}
+{{L|Moe| Nah, I'm just your poop.}}
+{{L|[''BMO gasps and runs up to Moe to give him a hug.'']}}
+{{L|Jake| Wait, did you say you built a million robots?}}
+{{L|Finn| Yeah, all we saw was that tram jerk and all those jerky security jerks!}}
+{{L|Moe| Ah, those were just the surface jerks. [''to MMO:''] Up, please. [''MMO lifts him up over himself. He carries him over to a porthole in the ground with a wheel.''] Kid, come over here. [''He turns the wheel and the scene shows what's inside. There are a couple hundred MOs milling about. We see a QMO watering plants, an unknown MO with wings, two LMOs throwing dice and money, two CMOs playing jump rope with an OMO while a WMO, PMO, and three ♥MOs looking at them.''] BMO, say hello to your family.}}
+{{L|BMO| Hello, family.}}
+{{L|[''All of the MOs turn up to look at him.'']}}
+{{L|MOs| Hi, BMO!}}
+{{L|[''BMO puts his hands on his smiling face.'']}}
+'''Episode ends.'''
+
+[[es:Ser Más/Transcripción]]
+[[Category:Transcripts]]
+

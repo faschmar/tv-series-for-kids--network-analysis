@@ -1,0 +1,15 @@
+{{ShortTr
+|title = Around the World
+|titlecard = Around_the_World_007.png
+|shortnumber = 1
+|airdate = {{Time|March 7}}, {{Time|2006}}
+}}
+{{L|''[Squidward is planting in his garden.]''}}
+{{L|SpongeBob|''[carrying his briefcase]'' So long, Squidward! I'm goin' around the world!}}
+{{L|Squidward|Bon voyage!}}
+{{L|Patrick|''[puts down a globe]'' Let's go, buddy!}}
+{{L|Both|''[runs around the globe]'' Around the world! Around the world! Around the world! ''[laughs]'' Whoo-hoo! Whoo!}}
+{{L|Squidward|I knew it was too good to be true.}}
+{{L|''[The rest is an advertisement showing toys of SpongeBob Lost in Time on Burger King.]''}}
+[[Category:Transcripts]]
+

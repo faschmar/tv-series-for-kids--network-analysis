@@ -1,0 +1,18 @@
+{{Transcript-incomplete}}
+{{SpecialTr
+|prev = Behind the Scenes with Pick Boy and SpongeBob
+|title = Inside the SpongeBob Animation Studios
+|next = Behind the Pantis
+|titlecard = Inside the SpongeBob Animation Studios.png
+|specialnumber = 22
+|DVD = SpongeBob's Atlantis SquarePantis (DVD)={{Time|November 13}}, {{Time|2007}}
+}}
+{{L|Narrator|Welcome to South Korea! Home of tall buildings, beautiful waterways, fast sunsets, and, most importantly, Nick Korea and Rough Draft Studios.}}
+{{L|Narrator|This is where everyone's favorite underwater hero, SpongeBob SquarePants, is animated. Let's go in and check it out.}}
+{{L|Narrator|Everyday, artists are hard at work drawing every frame of SpongeBob.}}
+{{L|Narrator|After all frames are drawn, they are scanned into the computer. This is where the colorists take off. They go through and color each and every drawing.}}
+{{L|Narrator|While this is happening, the background artists are painting all the backgrounds that are needed for this episode.}}
+{{L|Narrator|Once the backgrounds are painted and the frames are colored, they're all put together in the computer, and SpongeBob and the gang come to life.}}
+{{L|Narrator|And that's your exclusive look at SpongeBob and Rough Draft Studios.}}
+{{L|''[SpongeBob laughs alongside Patrick]''}}
+

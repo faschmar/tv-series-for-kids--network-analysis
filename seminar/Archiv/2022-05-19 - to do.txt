@@ -1,0 +1,34 @@
+Martin:
+	Wer ist wichtigster Person
+	Wer sind die 20 wichtigsten Personen
+
+	Gender differences - mehrere Serien
+
+	Assertivity
+		assortativity_degree(graph, directed = TRUE)
+
+ 
+
+	Topicanalysises - r 
+		Betweenness - 5
+		5 gender
+		5 topic analyses
+
+
+Bis Dienstag: 
+
+
+	Charaktere Namen einheitlich (Hawk moth) - Martin - dataframe(sentiment) - done_
+
+	Serie:
+		Table: Charakter - line - sent - episode, season - Martin (done)
+
+	Episode: - laura
+		5 wichtigsten Personen pro episode (betweenness und Eigenvektor) 
+		assortativity_degree - directed - done
+	
+
+		names(sort(betweenness, decreasing)[[
+		-> dataframe mit metadaten einfügen (5x für beetween, 5x Eigenvektor) -done
+
+	-Darstellung der Retrieval, Cleaning,….

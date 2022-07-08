@@ -1,0 +1,17 @@
+{{ShortTr
+|prev = Remodeling
+|title = Loop dee Loop
+|next = Are We There Yet?
+|titlecard = Loop dee Loop.jpg
+|shortnumber = 3
+|shorttype = Friend or Foe shorts
+|airdate = {{Time|March 28}}, {{Time|2007}}
+}}
+{{L|''[at the nursery where baby Krabs and baby Plankton are playing with a car track. Plankton is inside the toy boat]''}}
+{{L|Mr. Krabs|Vroom! Vroom!}}
+{{L|Plankton|Do the "Loop Dee Loop." Again! Again! ''[Krabs sends Plankton on the car track which sends him flying]'' Wee! ''[goes into traffic]'' Zoom! ''[a steamroller is driving up]''}}
+{{L|Mr. Krabs|''[gasp]''}}
+{{L|Driver|''[on radio]'' Oh yeah, uh-huh. ''[Krabs lassos Plankton with a bunch of tied-up diapers and sends him back but into Krabs' mouth]''}}
+{{L|Plankton|Again! Again!}}
+[[Category:Transcripts]]
+

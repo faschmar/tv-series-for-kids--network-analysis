@@ -1,0 +1,21 @@
+{{ShortTr
+|title = Gary's Holiday Sing Along
+|titlecard = Gary's Holiday Sing Along.jpg
+|shortnumber = 2
+|shorttype = Holiday shorts
+|airdate = {{Time|December 9}}, {{Time|2015}}
+}}
+{{L|Pirate Narrator|Arrrrrr! It's time for Garrrrrry's Holiday Sing Along! ''[Gary appears and meows]''}}
+{{L|Pirate Narrator|With holiday hits like Jingle Shells!}}
+{{L|''[Gary meows a song in the tune of Jingle Bells]''}}
+{{L|Pirate Narrator|O Coral Tree!}}
+{{L|''[Gary meows a song in the tune of Oh Christmas Tree]''}}
+{{L|Pirate Narrator|Shipwreck The Halls!}}
+{{L|''[Gary meows a song in the tune of Deck The Halls]''}}
+{{L|Pirate Narrator|And who can forrrrrrget  We Wish You A Meowy Meowmas!}}
+{{L|''[Gary meows a song in the tune of We Wish You A Merry Christmas]''}}
+{{L|Pirate Narrator|Arrrrr! Now let's bring it home with an age-old tune, Auld Fish Line.}}
+{{L|''[Gary meows a song in the tune of Auld Lang Syne]''}}
+{{L|Pirate Narrator|Harr Harr Harr! Well done, Gary! Well done.}}
+[[Category:Transcripts]]
+

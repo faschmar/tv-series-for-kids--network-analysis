@@ -1,0 +1,160 @@
+==Attempting to Escape Gym Class==
+::{{d|event|Scene begins outside the infirmary, where Gumball and Darwin are. Gumball knocks on the door}}
+:{{d|Darwin}}: Are you sure this is gonna work? 'Cause I really don't want to go to gym class. {{d|event|Gumball kicks himself in the face}}
+:{{d|Gumball}}: Ah! My legs are trying to kick my brain for just thinking about it. But don't you worry. Today's the day the plan works.
+:{{d|Darwin}}: But it's already gone wrong so many times. Maybe we should just accept our fate and go to gym class. {{d|event|Gumball kicks Darwin's leg}} OW!
+:{{d|Gumball}}: Don't say that word. You're making them {{dialogue|event|motions at his legs}} angry. Just let me deal with this.
+::{{d|event|Gumball knocks on the door again, and Joan answers}}
+:{{d|joan}}: What is it? No, I haven't lost weight. No, I haven't done something new with my hair. No, you don't have the Bubonic Plague. No, you can't have a second opinion on that, therefore, no, you cannot get a note to skip gym class. {{d|event|Gumball kicks himself again}} What was that?
+:{{d|Gumball}}: Don't worry about it. What's more important is that I respect you as a professional and I commend you for your dedication to medical practice. And for this, I would like to personally shake you by the hand.
+::{{d|event|Joan opens her hand to find a coin}}
+:{{d|joan}}: Did you just give me a quarter?
+:{{d|Gumball}}: And there's plenty more where that came from. How does a thousand cents sound to you?
+:{{d|Darwin}}: Ten dollars?
+:{{d|Gumball}}: How does a hundred cents sound to you?
+:{{d|joan}}: A dollar? {{d|event|Writes a note}} If I just wrote you a note now, would you promise never to come back?
+:{{d|Gumball}}: {{d|event|Shakes Joan's hand}} I swear. {{d|event|Runs away with Darwin}}
+::{{d|event|Joan opens her hand to reveal a slip of paper}}
+:{{d|joan}}: Hey, that's an I.O.U.
+:{{d|Gumball}}: {{d|event|To Darwin}} Told you it would work.
+::{{d|event|Gumball and Darwin dance like cool kids through the hallway, but are then blocked by a mysterious, very large figure}}
+:{{d|Coach}}: Why are you kids not in gym class?
+:{{d|Darwin}}: We've got a sick note.
+:{{d|Coach}}: Where is this sick note exactly?
+::{{d|event|Gumball and Darwin manage to get their heads unstuck from behind Coach}}
+:{{d|Gumball}}: {{d|event|Points at Coach's shorts}} I think it's in there somewhere.
+:{{d|Coach}}: How convenient. You don't look very sick to me. And you look at me in the eye when I'm talking to you.
+:{{d|Gumball}}: Uh... sure. Let me just take a step back. What the...? What's going on here? You don't seem to be getting any further away. Oh, there we go. Hi, mis...ter...?
+:{{d|Coach}}: You can call me Coach. Now get to gym class.
+::{{d|event|Gumball kicks himself in the face again and the screen turns to black}}
+
+==Gym Class==
+::{{d|event|Scene opens inside Gumball's body, showing his heart, whose beats are getting faster}}
+:{{d|Heart}}: {{d|event|Gasps several times}} What's going on?
+:{{d|Lungs}}: I have no idea, but it's horrible!
+:{{d|Heart}}: Code Red! I repeat -- Code Red! This is not a drill! This body is exercising!
+:{{d|Intestine}}: Somebody do something!
+:{{d|Heart}}: Brain Dude! what do we do? I can feel myself getting healthier!
+:{{d|Brain}}: Well, in circumstances like this, I think it's safe to say that now would be the right time to... FREAK OUT!
+::{{d|event|All of Gumball's organs start screaming. Gumball is shown doing push-ups while sweat pours out of his armpits}}
+:{{d|Jamie}}: Hey, Watterson, If your sweat reaches me, I'm gonna invite you to a pain party, where the only guests are you, me and my fist.
+:{{d|Gumball}}: It's not sweat. It's my organs crying.
+:{{d|Coach}}: Come on, Watterson. If you can't manage a simple push-up, how are you ever gonna do a cartwheel?
+:{{d|Gumball}}: Why would I ever want to do a cartwheel?
+:{{d|Coach}}: Because everything you learn in gym class could make a difference in your life one day.
+:{{d|Gumball}}: What possible use could I have for knowing how to do a cartwheel, apart from physically replacing the wheel on a cart?
+:{{d|Coach}}: Maybe the day you want to win gold in the eighty-six Olympics. {{d|event|Takes out a photo and shows it to Gumball. It's an upside down photo of the Coach}}
+:{{d|Darwin}}: That's not a cartwheel. That's just a photo of you upside down.
+::{{d|event|Coach rotates the photo}}
+:{{d|Gumball}}: Yeah, well, that still doesn't prove it's useful.
+:{{d|Coach}}: Oh, really? Jamie, you're running being chased by a pack of angry dogs, but oh, no, you've dropped your pen. {{d|event|Drops pen on the floor}} Now, do you let those dogs have that hard-earned pen, or do you cartwheel your way out of it like a boss?
+::{{d|event|Jamie cartwheels to get the pen to the coach}}
+:{{d|Gumball}}: Statistically, that is quite unlikely, but in that highly illogically and incredibly specific situation, I guess you do have a point. But what about that stuff?
+:{{d|Coach}}: Let me paint you a picture. You're being chased by another pack of angry dogs. You've reached a ravine with only asymmetric bars allowing you to reach the other side. They want your pen. What do you do?
+:{{d|Gumball}}: I guess I'd just turn on my jet pack, fly over the ravine, land in my flying car, and drive to space.
+:{{d|Coach}}: That's completely unrealistic. Jamie, come here and show Watterson how you would do it.
+::{{d|event|Jamie does several swings around the bar and lands perfectly on the gym floor. They stare in shock}}
+:{{d|Coach}}: Perfect. You remind me of me at your age.
+:{{d|Gumball}}: Except for the fact she has a neck.
+::{{d|event|Coach hears this and points to the bar. Gumball then tries to swing around it}}
+:{{d|Coach}}: Faster. That's not how you take gold at the eighty-six Olympics.
+::{{d|event|Coach flips the photo}}
+::{{d|event|Gumball starts spinning, and his pants fly off}} Oooooh, man! Darwin! my pants!
+:{{d|Darwin}}: Try and go faster! Speed will blur your shame.
+:{{d|Gumball}}: I can't! I'm at full speed! Do something! Anything!
+:{{d|Darwin}}: Hold on! I'm gonna try and put them back on in three, two...
+::{{d|event|Darwin gets knocked by the spinning Gumball and his head flies out of a window}}
+::{{d|event|Cuts to Jamie jumping on the trampoline}}
+:{{d|Coach}}: Okay, so you've just been to the mall, but suddenly in the car park, you see a pack of angry dogs who --
+:{{d|Gumball}}: Yeah, yeah. Why don't we just let Jamie show us how to do it?
+::{{d|event|Jamie rotates quickly in the air; Alan, Gumball and Darwin look at her in amazement}}
+:{{d|Coach}}: And that is how you win three gold medals in trampolining. {{d|event|Coach throws up the photo}} Now show me what you got.
+::{{d|event|Gumball jumps on the trampoline}}
+:{{d|Coach}}: Higher. Higher. Higher.
+::{{d|event|Gumball jumps high, and does not fall down}}
+:{{d|Coach}}: Angry dogs -- three. Watterson -- nil. {{d|event|Coach tries to whistle, instead making a raspberry sound}} Lesson over.
+
+==School Cafeteria==
+:{{d|Darwin}}: How am I gonna eat? Coach worked all my muscle groups. Even my tongue hurts.
+:{{d|Anton}}: Coach told me I need to cut out the carbs. And that's all I am!
+:{{d|Alan}}​​: When Coach said they were gonna get us into shape, I never expected to look like this.
+:{{d|Carrie}}: That workout was horrible. I actually feel... {{d|event|Blushes}} alive.
+::{{d|event|The door of the school cafeteria opens suddenly, and Jamie enters}}
+:{{d|Jamie}}: If you don't get out of my way, you're gonna meet the new "Fistory" Teacher, Professor Knuckles, for a two-hour lesson of pain. '''NOW MOVE!'''
+::{{d|event|Darwin, Carrie, Alan, Anton, and Rocky go, but Gumball does not go}}
+:{{d|Jamie}}: What are you still doing here?
+:{{d|Gumball}}: To be honest, the pain from moving would be worse than the pain from your fists, so just go ahead.
+::{{d|event|As Jamie starts to punch, Coach enters and "whistles" again, blowing several raspberries. Everyone stares. As the Coach walks foward, spit flies on Gumball An day Jamie}}
+:{{d|Coach}}: The only type of fighting I tolerate is on the mat like when I won the gold medal in Tae Kwon do at the nineteen eighty-eight Olympics. {{d|event|Shows the photo again}} Bandal Chagi. Dollyo Chagi. Yeop Chagi. Conan. {{d|event|Coach returns Jamie}} Jamie, you apologize to Watterson this instant.
+:{{d|Jamie}}: Yes, Coach. I-I'm sorry, Coach.
+:{{d|Coach}}: Now, what do we say to people we've upset?
+:{{d|Jamie}}: {{d|event|To Gumball}} I'm sorry, Gumball, for what I said. Let's put our differences to bed. I hope these words will make amends and we can be the best of friends.
+::{{d|event|Everyone gasps and their jaws drop. Scene cuts to Richard's car. He notices the kids's dropped jaws and plays with the heights of the car windows. Scene cuts to the Wattersons' dining table where Gumball and Darwin and scooping food into their open jaws. Richard takes some from Darwin's mouth. Scene cuts to them brushing their teeth without the toothbrushes touching anything, and finally to their bedroom at night, where their dropped jaws and snoring open and closes the door and blanket, and moving a basketball and a poster}}
+
+==The Next Day==
+::{{d|event|The school bell rings. Everyone's jaws in the hallway are still dropped}}
+:{{d|Jamie}}: {{d|event|Sees Gumball}} What?
+:{{d|Gumball}}: {{d|event|Subtitles are shown}} You apologized.
+:{{d|Jamie}}: Yeah, whatever. You better shut up if you don't want Mr. and Mrs. Pain to invite you to dinner. They only serve filet o'fist!
+:{{d|Gumball}}: {{d|event|Forces his jaw back to normal}} It's okay, Jamie. You can let that anger go. You touched our hearts yesterday.
+:{{d|Jamie}}: Oh, I'll touch your heart...with my fist!
+:{{d|Gumball}}: That's...quite a vivid image, but understand you don't have to be a bully anymore. Coach saw what we were all too blind to see. That you're really a sweet, kind...orange thing with, uh, a hat or a wig or some kind of a helmet and horns that we're proud to call our friend.
+::{{d|event|Jamie picks up Gumball and throws him into Darwin's mouth}}
+:{{d|Jamie}}: I am not anyone's friend! The only friends I need are grandma and grandpa fist. And they don't give candy. {{d|event|To everyone in the hallway}} I'm gonna show you! I'm gonna do something so bad, it'll go down in school history! {{d|event|Storms off}}
+:{{d|Gumball}}: {{d|event|In Darwin's mouth}} We're gonna have to work on Jamie's hugging technique.
+::{{d|event|School bell rings, and everyone out of the school}}
+:{{d|Gumball}}: You don't think Jamie's really gonna do anything bad, do you?
+:{{d|Darwin}}: Of course not. Just because she fed Anton to the ducks... {{d|event|Flashback of Anton being eaten by ducks}} ...or that she chewed Teri's own body to spit it back in her face... {{d|event|Flashback of Teri}} ...or that she ate a little bit of Sarah and Banana Joe. {{d|event|Flashback of Sarah and Banana Joe}}
+:{{d|Gumball}}: Dude, stop talking about it! I can't take any more horrible flashbacks!
+:{{d|Darwin}}: But people change. Just because she did all that doesn't mean {{d|event|Looks behind him}} she's capable of climbing into the back of a teacher's car to do something so bad that it'll go down in school history!
+::{{d|event|Jamie enters Coach's car from the back. Coach does not seem to notice}}
+:{{d|Darwin}}: Dude, we got to do something!
+:{{d|Gumball}}: Hold up! Let's try the easy way first. {{d|event|Aloud}} Coach! Coach! Coach!
+::{{d|event|Darwin starts pushing Gumball. Coach continues driving, while singing along to a strange tune on the radio}}
+:{{d|Gumball}}: Coach! Behind you! Coach! Coach! Watch out, Coach! COACH!
+:{{d|Darwin}}: Dude, stop it! It's pretty clear Coach can't hear you.
+:{{d|Gumball}}: {{d|event|Sighs}} You're right... JAMIE! JAMIE!
+:{{d|Darwin}}: No, we need a shortcut. There! {{d|event|They come to a path that is recently cemented, the cement still wet, with scaffolding poles}}
+:{{d|Gumball}}: {{d|event|Spots Coach's car}} There they go!
+:{{d|Darwin}}: All we got to do is get across that wet cement using those asymmetric scaffolding poles.
+:{{d|Gumball}}: But how?
+::{{d|event|An image of the Coach appears}}
+:{{d|Imaginary Coach}}: Because everything you learn in gym class can make a difference in your life one day.
+:{{d|Gumball}}: Coach, you've got to pull over. Jamie's in the back of your car, and she's about to do terrible things to-
+:{{d|Imaginary Coach}}: Kid, I'm a vision, not a phone. {{d|event|Disappears}}
+:{{d|Gumball}}: Okay, just imagine there's a pack of dogs doing some stuffs and you've got to get to the other side of that.
+::{{d|event|Gumball does an impressive feat of gymnastic, but still faceplants in the wet cement}}
+:{{d|Darwin}}: Hurry up! We're losing him!
+::{{d|event|Gumball continues to run while covered in cement}}
+::{{d|Darwin}}: No, wait, they're slowing down! We're not losing them! No, wait, they're going faster again! We're losing them! Oh no, they slowed down again! They're turning the corner! They're driving up the street!... They're gone!
+:{{d|Gumball}}: {{d|event|Runs into a bus stop sign, breaking free of the cement covering him}} How are we gonna find them now?
+::{{d|event|Gumball and Darwin spot Tobias jumping on his trampoline. Gumball lifts it to the side while Tobias is coming down from the air, causing him to crash into his house}}
+:{{d|Darwin}}: I can't see them yet!
+:{{d|Gumball}}: There they are!
+:{{d|Darwin}}:Where?
+:{{d|Gumball}}: Over there!
+:{{d|Darwin}}: I cant see where you're pointing!
+:{{d|Gumball}}: Just follow me! {{d|event|Gumball bounces off the trampoline to the direction of Coach's car, then fall downs the road. He yells after Coach's car}} Coach! Watch out! {{d|event|Looks at Darwin}} How come you look so good?
+:{{d|Darwin}}: I walked around the block. What kind of psycho jumps over three streets?
+:{{d|Gumball}}: Yeah, I was just in the moment, I guess.
+:{{d|Darwin}}: Come on! Let's cut through this backyard and catch them on the other side!
+::{{d|event|They enter the backyard, where they see a pack of angry dogs}}
+:{{d|Darwin}}: Angry dogs, and I've got a pen in my pocket. What do we do?
+:{{d|Gumball}}: We cartwheel out of here like a boss. {{d|event|Gumball and Darwin try to do cartwheels}}
+:{{d|Darwin}}: Okay, what do we do now?
+:{{d|Gumball}}: Just keep on cartwheeling.
+::{{d|event|The Cube Dogs stop growling, confused at Gumball and Darwin's cartwheeling. They continue as the dogs clear the way and observe them curiously}}
+:{{d|Gumball}} and {{d|Darwin}}: Yes.
+:{{d|Gumball}}: There they are! Jamie! Coach watch out! Jamie, no! {{d|event|He runs past them and crashes into trash cans. Darwin runs into a fence beside him}}
+:{{d|Mr. Russo}}: {{d|e|sing-song voice}} Hey hey hey! How's my beautiful wife and daughter? {{d|event|He kisses Coach and Jamie on the cheek}}
+:{{d|Gumball}} and {{d|Darwin}}: Coach is your mom!?
+:{{d|Mr. Russo}}: Isn't the resemblance obvious?
+:{{d|Jamie}}: What? You're shocked because mommy is now at school to keep me in check? You're shocked because no one have to be scared of me anymore and all I have is big talk? You're shocked because fist's license to punch is revoked as of now?
+:{{d|Gumball}}: No, dude. We are shocked because...
+:{{d|Gumball}} and {{d|Darwin}}: Coach is a WOMAN?
+::{{d|event|Episode ends}}
+
+{{EpisodeNavbox|season1=y|season2=y|season3=y|season4=y|season5=y|season6=y}}
+[[Category:Transcripts]]
+[[Category:Season Three]]
+

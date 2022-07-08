@@ -1,0 +1,22 @@
+{{ShortTr
+|prev = SpongeBob's Legendary Dance Party
+|title = Things to Do When Encountering a Legendary Creature
+|next = The Legend of SpongeBob
+|titlecard = Things to Do When Encountering a Legendary Creature - Titlecard.png
+|shortnumber = 2
+|shorttype = Legends of Bikini Bottom shorts
+|airdate = {{Time|November 16}}, {{Time|2010}}
+}}
+{{L|Narrator|Things to do when encountering a legendary creature.}}
+{{L|SpongeBob|Hi, Patrick, what are you reading?}}
+{{L|Patrick|''[whilst roller skating]'' Bikini Bottom Legends. It's a chapter called "Things to Do When Encountering a Legendary Creature." It says to be polite. ''[SpongeBob starts taking notes]'' Offer a gift, oh.}}
+{{L|SpongeBob|Hey, Patrick?}}
+{{L|''[Rrarrg looms up in front of them]''}}
+{{L|Patrick|Yeah?}}
+{{L|SpongeBob|Is run away on that list?}}
+{{L|Patrick|Yeah, it is.}}
+{{L|Rrarrg|''[screaming]'' Rarr!}}
+{{L|SpongeBob and Patrick|''[they start running away and scream]'' Monster! ''[they scream again]''}}
+{{L|Rrarrg|''[a tear rolls down his face]'' I'm so lonely.}}
+[[Category:Transcripts]]
+

@@ -1,0 +1,12 @@
+{{ShortTr
+|title = Cancer
+|titlecard = Astrology with Squidward - Cancer.png
+|shortnumber = 1
+|shorttype = Astrology with Squidward shorts
+|airdate = {{Time|2000}} - {{Time|2001}}
+}}
+{{L|Narrator|And now, Astrology with Squidward.}}
+{{L|Squidward|''[plays clarinet]'' Happy birthday to Cancer, sign of the crab. Not all Cancers are crabby but they are all good at causing problems and blaming them on others. Many famous fibbers and elected officials are Cancers. My prediction for Cancer: This week you will fall asleep seven times. Don't worry you'll wake up. ''[gong sounds]'' I'm your Nicktoon Astrologer, Squidward, reminding you that it's bad karma to eat animated seafood. ''[plays clarinet again]''}}
+[[Category:Transcripts]]
+[[es:Cancer/transcripción]]
+

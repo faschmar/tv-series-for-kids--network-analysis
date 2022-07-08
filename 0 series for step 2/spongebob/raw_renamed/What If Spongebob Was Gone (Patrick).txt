@@ -1,0 +1,14 @@
+{{ShortTr
+|prev = What if SpongeBob Was Gone? (Mr. Krabs)
+|title = What if SpongeBob Was Gone? (Patrick)
+|next = Separation Anxiety
+|titlecard = WasGonePatrick TitleCard.PNG
+|shortnumber = 4
+|shorttype = What Ever Happened to SpongeBob? shorts
+|airdate = {{Time|October 14}}, {{Time|2008}}}}
+{{L|Narrator|What if SpongeBob was gone?}}
+{{L|''[scene switches to Jellyfish Fields]''}}
+{{L|Patrick|Haha. Jellyfish, beware! Patrick Star is here. Jellyfish. Oh, how do you hold this again? ''[turns net upside-down so he's holding the net side]'' There. Got ya! ''[fails, uses the net as a catapult but fails again, throws the net at the jellyfish but can't get one]'' This isn't over! Hey, I'm not done with you. ''[a big jellyfish, with the net stuck in it, rises from under the ground]'' I could really use SpongeBob's jellyfishing expertise right about now.}}
+{{L|''[scene cuts to black when Patrick is being stunned by a big jellyfish]''}}
+[[Category:Transcripts]]
+

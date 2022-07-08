@@ -1,0 +1,34 @@
+{{ShortTr
+|prev = Sandy's Vacation in Ruins
+|title = Frozen Krabby Patty
+|titlecard = Frozen Krabby Patty short.png
+|shortnumber = 1
+|shorttype = Goodbye, Krabby Patty?
+|airdate = {{Time|February 18}}, {{Time|2017}}
+}}
+{{L|Film director|''[to Patrick]'' So, you know what to do, right? Just look into that camera and say your lines.}}
+{{L|''[The director kisses Patrick and he giggles.]''}}
+{{L|Film director|Okay, let's make a commercial!}}
+{{L|Film maker|Frozen Krabby Patty commercial: Take 1.}}
+{{L|Film director|And action!}}
+{{L|Patrick|Frozen Krabby Patties are...}}
+{{L|Film director|Cut! Little yellow box.}}
+{{L|''[SpongeBob and Patrick look around as to whom the director's referring to.]''}}
+{{L|Patrick|I think he means you, SpongeBob.}}
+{{L|SpongeBob|Oh, uh, yes?}}
+{{L|Film director|Could you step a little to your left, please?}}
+{{L|SpongeBob|Sure. ''[steps to the left]'' How's that?}}
+{{L|File director|A little more.}}
+{{L|SpongeBob|He needs to get the composition just right. ''[steps to the left again]'' Now?}}
+{{L|Film director|A little more.}}
+{{L|''[SpongeBob steps to the left again.]''}}
+{{L|Film director|More.}}
+{{L|''[SpongeBob giggles and steps to the left again.]''}}
+{{L|Film director|More.}}
+{{L|''[SpongeBob frowns and steps to the left again until he's off camera.]''}}
+{{L|Film director|More, more, more. Perfect! Action!}}
+{{L|''[SpongeBob appears to the right side of the scene.]''}}
+{{L|SpongeBob|Is this good?}}
+{{L|Film director|Cut!}}
+[[Category:Transcripts]]
+

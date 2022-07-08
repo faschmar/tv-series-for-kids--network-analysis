@@ -1,0 +1,22 @@
+{{ShortTr
+|prev = Pie
+|title = Can't Swim
+|next = Remodeling
+|titlecard = Can't Swim.jpg
+|shortnumber = 1
+|shorttype = Friend or Foe shorts
+|airdate = {{Time|April 12}}, {{Time|2007}}
+}}
+
+{{L|Narrator|And now, a SpongeBob mini.}}
+{{L|Plankton|What's wrong with you?}}
+{{L|Mr. Krabs|I don't know how to swim!}}
+{{L|Plankton|Relax, man, there's nothing to worry about, not with these sweet inner-tubes.}}
+{{L|Mr. Krabs|Yeah... ''[pokes inner-tube with his claw, his inner-tube starts deflating and he starts to scream.]''}}
+{{L|Plankton|I'll save ya, pal! ''[clogs up the inner-tube hole]'' Yeah!}}
+{{L|Mr. Krabs|Good thinking, buddy!}}
+{{L|Plankton|Anything for a- ''[he starts to blow out of the hole]''}}
+{{L|Mr. Krabs|''[screams]'' Hey, I think I'm swimming!}}
+{{L|Plankton|Actually, that's called standing, but close enough.}}
+[[Category:Transcripts]]
+

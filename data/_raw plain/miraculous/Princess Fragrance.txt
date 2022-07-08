@@ -1,0 +1,295 @@
+{{TranscriptText}}
+
+<center>'''''[ [[It's Ladybug|Theme Song]] ]'''''</center>
+
+{{Scene|Scene: TVi News report. It is raining.}}
+<poem>
+'''[[Nadja Chamack|Nadja]]:''' ''(in a news report)'' Welcome. Ladybug and Cat Noir have saved Paris once again. Jean Duparc was akumatized into the very menacing Magician of Misfortune, threatening to make the Eiffel Tower vanish in a puff of smoke.
+</poem>
+
+{{Scene|Scene: [[Paris|The streets of Paris]]. Ladybug arrives at a subway, where she turns back into Marinette as she walks upstairs}}
+<poem>
+'''[[Tikki]]:''' ''(sneezes)''
+'''[[Marinette Dupain-Cheng|Marinette]]:''' Tikki, you don't look well.
+'''Tikki:''' I need you to take me to a doctor.
+'''Marinette:''' But where am I gonna find a doctor for kwamis?
+'''Tikki''': I know a healer. I'll tell you where to go.
+'''Marinette:''' But what will I tell him? You're a secret, he'll get all suspicious and ask me questions— ''(gasps) ''And I know someone else who is gonna ask an awful lot of questions: my teacher! About why I'm late again! Tikki, can I take you to the healer right after school? ''(Tikki nods and sneezes)'' Thank you.
+</poem>
+
+{{Scene|Scene: [[Ms. Mendeleiev's classroom]]. [[Collège Françoise Dupont]].}}
+<poem>
+'''[[Ms. Mendeleiev]]:''' Combustion is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant. Usually atmospheric oxygen...
+'''Nadja:''' ''(news report on Rose's cellphone)'' Today, Prince Ali, heir to the throne of the kingdom of Achu will do the honors during his official Parisian visit by hosting a toy fundraiser for the sick children at the Paris City Children's Hospital.
+'''[[Rose Lavillant|Rose]]:''''' (Rose wipes her eyes as [[Juleka Couffaine|Juleka]] hands her tissues)'' He's just so gorgeous ''and'' with a heart of gold. ''(Blows her nose)'' Oh! You know what? I'm gonna write him a letter professing my complete adoration and utmost respect. ''(Marinette stumbles into the classroom and then trips and falls in front of the teacher's desk.)''
+'''Marinette:''' Waaa!
+'''Ms. Mendeleiev:''' Ah, Marinette. What excuse do you have for us this time? Accidentally locked yourself in the bathroom again?
+'''Marinette:''' Uh, no! Of course not. I had to, uh, take my dog... to the vet! Because he... ate an entire wool sweater. Uh, it must've smelled like th— ''(Rose sprays perfume on her letter.)''
+'''Ms. Mendeleiev:''' Thank you, Rose. But I don't think our classroom needs extra refreshing. ''(Walks towards Rose)''
+'''[[Chloé Bourgeois|Chloé]]:''' I thought someone packed a tuna fish sandwich, but it turns out it's Rose's perfume. ''(laughs)''
+'''[[Alya Césaire|Alya]]:''' ''(to Marinette)'' Ate a sweater?
+'''Ms. Mendeleiev:''' ''(confiscates Rose's perfume)'' Furthermore, using your smartphone during school hours is strictly forbidden. ''(confiscates Rose's cellphone and hands free)'' Take the rest of your things and go to the principal's office.
+'''Rose:''' Oh... ''(Rose takes her things and starts to walk away)''
+'''Ms. Mendeleiev:''' ''(at the front of the class)'' Watch what happens when you play about with flammable substances in a chemistry lab. ''(She spritzes some perfume inside a glass container with an open bottom and puts it upright, trapping the air inside. Then she pushes a button and a small flame comes out of a tube creating a small explosion.)''
+'''Students:''' ''(gasp)''
+'''Ms. Mendeleiev:''' Just to make sure you all remember that, I'll be quizzing you tomorrow on lab safety. Again!
+</poem>
+
+{{Scene|Scene: Outside [[Collège Françoise Dupont]]. Nino waits as Adrien runs to school, Marinette and Alya are watching them from behind.}}
+<poem>
+'''[[Nino Lahiffe|Nino]]:''' Dude.
+'''Alya:''' You two really are made for each other. Neither one of you can make it to school on time. Since he missed chemistry class, it would be ''sweet'' if some lady could lend him her notes so he could get up to speed.
+'''Marinette:''' ''(giggles)'' You're right. Oh, you mean for ''me'' to give him ''my'' notes! ''(looks to her purse, where Tikki is)'' No, I can't. I-I—
+'''Alya:''' Girl, your fake excuses don't work on me.
+'''Tikki:''' ''(sneezes)''
+'''Alya:''' Huh?
+'''Marinette:''' Achoo! I think I'm getting sick.
+'''Alya:''' Then don't breathe on him. ''(points to Adrien. Marinette starts to walk over to him)''
+'''Tikki:''' ''(sneezes)'' I'm not feeling too good.
+'''Marinette:''' Don't worry, Tikki, it'll just take a sec— ''(Marinette trips over someone's bag and Tikki accidentally flies out of her bag. Marinette lands on Adrien.)''
+'''Marinette and Tikki:''' Aaaah!
+'''[[Adrien Agreste|Adrien]]:''' Woah! You okay? Nothing broken?
+'''Marinette:''' Uh, yeah, uh, I'm fine. ''(Adrien and Nino leave. Then Marinette realizes Tikki isn't in her purse anymore.)'' Hah! AAH!
+'''Tikki:''' ''(weakly)'' Marinette... ''(Chloé and Sabrina walk over and Tikki pretends to be a plush doll)''
+'''Chloé:''' Sabrina, what's Prince Ali doing today again?
+'''[[Sabrina Raincomprix|Sabrina]]:''' A toy drive at the Children's Hospital.
+'''Chloé:''' ''(sees Tikki and picks her up)'' Hm, what kind of stuffed animal is this? Who left this here? ''(gasp)'' The Prince will never have seen one like this before, and when he lays eyes on me, Prince Ali will forget all about those sick kids. ''(laughs)''
+'''Rose:''' D-did I hear you say Prince Ali?
+'''Chloé:''' Not to you.
+'''Sabrina:''' Prince Ali's staying at Chloé's dad's hotel.
+'''Chloé:''' The ''only'' hotel fit for a Prince, and I'm going to be the first to meet him. Isn't he lucky?
+'''Rose:''' Oh, please, could you give him a special letter for me?
+'''Chloé:''' No prob.
+'''Rose:''' Oh, that is so amazingly sweet of you to do that for me.
+'''Chloé:''' ''(laughs)'' You thought I was serious? You think I wanna get anywhere near this fish funk? ''(laughs and rips the letter)''
+'''Rose:''' ''(gasps and then cries. Chloé gets into her limo and leaves Rose crying on the ground.)''
+'''Marinette:''' Tikki? ''(Marinette hears Chloé laugh and sees her holding Tikki as her limo is pulling away.)'' Chloé, wait up!
+'''Chloé:''' Huh?
+'''Marinette:''' That's my... my...
+'''Chloé:''' Not anymore. Finders keepers. ''(laughs)''
+'''Marinette:''' ''(to herself)'' Tikki...
+</poem>
+
+{{Scene|Scene: [[Seine]] riverbank. Rose is sad and starts to write another letter.}}
+<poem>
+'''Rose:''' ''(sobs as she begins writing another letter)''
+</poem>
+
+{{Scene|Scene: [[Hawk Moth's lair]].}}
+<poem>
+'''[[Gabriel Agreste|Hawk Moth]]:''' ''(His window opens)'' Ooh, now there's a broken-hearted princess if ever I saw one. Every rose has its thorns.''(laughs)'' ''(turns a butterfly into an [[Akuma|akuma]])'' Fly away my little akuma and evilize her. 
+</poem>
+
+{{Scene|Scene: Bench. Rose is really upset and starts crying.}}
+<poem>
+''(The akuma flies over to where Rose is and infects her [[List of akumatized objects|perfume bottle]])''
+'''Hawk Moth:''' Princess Fragrance, I am Hawk Moth. Your perfume is now your secret weapon. No one will be able to resist it, especially Prince Ali. All ''I'' want from you in exchange are Ladybug and Cat Noir's Miraculous.
+'''Rose:''' ♫ I'm coming, my prince! ♫
+</poem>
+
+{{Scene|Scene: Outside [[Le Grand Paris]]. Marinette walks up to the doorman.}}
+<poem>
+'''Marinette:''' Hello! I'm in Chloé Bourgeois class and I really have to see her.
+'''[[List of minor characters/Humans#Unnamed doorman|Doorman]]:''' Are you a friend of hers?
+'''Marinette:''' A friend of Chloé's? Ha, you must be kidding! ''(gasp)'' I mean— we're in the same class, that's all.
+'''Doorman:''' If you're not a friend then I can't.
+'''Marinette:''' Yes! I'm a f-f-friend of Chloé's. We're BFFs!
+'''Doorman:''' Aha! Chloé doesn't have any friends!
+'''Marinette:''' Does that mean you're not letting me in?
+'''Doorman:''' No! ''(Marinette leaves defeated but then she sees a pile of trash with a motorcycle helmet, a pink cape and a pizza box.)''
+'''Marinette:''' ''(disguised)'' Hey! Got a pizza for Chloé Bourgeois.
+'''Doorman:''' Hmm, it's usually sushi. ''(moves aside)'' Top floor, imperial suite.
+'''Marinette:''' ''(giggles)'' Yes, yes, yes, yes, yes! ''(Marinette, still disguised, goes up the elevator and arrives at Chloé's floor. Chloé is waiting for another elevator.)''
+'''Chloé:''' "Here's a gift for the sick children, Prince. Oh, it's nothing, really, stop flattering me. Ahahahahahaha." No. "Ahahahahaha." There. That's better. ''(Chloé gets into the elevator and Marinette sees her as the doors are about to close)''
+'''Marinette:''' Chloé, wait! ''(starts to run to her)''
+'''Chloé:''' Pizza? Eugh, don't get that peasant food anywhere near me. ''(pushes the close button)''
+'''Marinette:''' Wait! It has truffles and caviar on it! ''(the doors close before she gets there)'' For a spoiled brat just like you! ''(she runs for the stairs)''
+''(Outside, Princess Fragrance approaches the doorman.)''
+'''Princess Fragrance:''' I've come to see Prince Ali.
+'''Doorman:''' Ugh, what is going on today? Do you have an appointment with the Prince?
+'''Princess Fragrance:''' No need, I'm his princess!
+'''Doorman:''' And I'm a monkey's uncle. Listen kid I—
+'''Princess Fragrance:''' That's no way to speak to a princess. ''(she shoots perfume at him from her perfume gun)''
+'''Doorman:''' ♫ At your service, Princess Fragrance. ♫
+'''Princess Fragrance:''' Thousand times better. ''(walks in)'' Now, where's my wonderful prince charming? We can't keep him waiting.
+''(Cut to Prince Ali's press conference inside Le Grand Paris in the dining hall)''
+'''[[André Bourgeois|André]]:''' In honor of your presence here in Paris your highness, I've taken it upon myself to organize a lavish fireworks display on the Seine river. They will be displayed from this barge.
+'''[[Prince Ali]]:''' ''(gasps)''Thank you, or how do we say in your language? Totally awesome!
+'''[[List of minor characters/Humans#Prince Ali's chaperone|Prince Ali's chaperone]]:''' We shall have to see if it fits with the Prince's busy schedule. We have very little time for festivities. His highness has many responsibilities.
+'''Chloé:''' ''(clears her throat)''
+'''André Bourgeois:''' Ah! Prince Ali, allow me to introduce you to my own princess, Chloé.
+'''Chloé:''' Hm, Prince, I brought you a special stuffed toy for the sick children. ''(gives Tikki to him)''
+'''Prince Ali:''' Whoa! I've never seen one like this before. This is so very kind of you.
+'''Chloé:''' Ahahahahaha, you're flattering me. It is so kind of me though, isn't it?
+'''Prince Ali:''' ''(slightly confused)'' Why, yes. I said just that. You did not hear me? 
+''(Chloé laughs nervously and her eye twitches. The press continues to take pictures. Marinette sneaks in through the back. The prince puts Tikki in his shirt pocket and Chloé takes a picture with him.)''
+'''Nadja:''' Nadja Chamack. Don't be bemused, it's just the news! Prince Ali, do you have anything to say about your official Parisian visit? ''(An elevator bell rings and Princess Fragrance appears further away from the crowd)''
+'''Prince Ali:''' I'm very happy to be here. ''(Princess Fragrance fires her perfume gun at Chloé)''
+'''Nadja:''' Prince Ali, where is...that-that smell coming from?! Like rotten fish?! ''(Nadja, Prince Ali, and André stare at Chloé)''
+'''Chloé:''' What? That's not me! ''(sniffs herself)'' It-it is me! Ew! ''(Perfume sprays behind the paparazzi. Everyone look at them)''
+'''Paparazzi:''' ''(turns around and bowed down while singing)'' ♫ At your service, Princess Fragrance. ♫
+'''Prince Ali:''' Who-who are you?
+'''Princess Fragrance:''' I'm Princess Fragrance and I've come just for you! In just a spritz you'll be mine, Prince Ali! 
+'''Marinette:''' This is bad! ''(activates a button from a synthesizer to launch the confetti)''
+</poem>
+
+{{Scene|Scene: Adrien's room in the Agreste mansion. Adrien watches the whole live broadcast on TV.}}
+<poem>
+'''Adrien:''' What or who is that? Plagg? Plagg, let's go! There's trouble in Paris! ''(he looks in his trash can where Plagg is eating his Camembert and Adrien is annoyed)''
+'''[[Plagg]]:''' I'm still chewing!
+<center>'''''[ Transformation Sequence ]'''''
+'''Adrien:''' Plagg, claws out! ''(Adrien transforms into Cat Noir)''</center>
+</poem>
+
+{{Scene|Scene: Back inside the Le Grand Paris. Prince Ali, his chaperone, André and Chloé escaped to the stairwell}}
+<poem>
+'''André Bourgeois:''' Quickly, Prince! This way! ''(Marinette follows them and Princess Fragrance down the stairs. Cuts to them hiding in a room)''
+'''André Bourgeois:''' We'll be safe in here. It's a reinforced door.
+'''Prince Ali's chaperone:''' So much chaos! How is anyone supposed to stick to a schedule around here? (both she and Prince Ali steps away from Chloé)
+'''Chloé:''' ''(points under the doorway)'' What is that?
+'''André Bourgeois:''' ''(sees the perfume fog)'' Get back! ''(Cuts to Princess Fragrance spraying under the doorway while Prince Ali, his chaperone, André and Chloé are backing away inside the room)''
+'''Princess Fragrance:''' ♫ My prince, my prince, smell the fragrance of my eternal love! ♫ ''(gasps)''
+''(Everyone look down and notices that the fog is being sucked away. Princess Fragrance turns and sees Marinette using a vacuum cleaner.)''
+'''Princess Fragrance:''' Seriously, who are you?! ''(uses her perfume gun like a rocket to launches herself and landed on the vacuum cord, plugging it off)'' Looks like you're powerless now, superhero! ''(points her gun at Marinette.)''
+'''André Bourgeois:''' ''(opens the door to take a peek)'' Oh no, there are two of them now! Run!
+''(Everyone gets out of the room and runs off.)''
+'''Princess Fragrance:''' ''(sprays her perfume around herself to create a fog)'' You can't escape my perfume! ♫ La la la la la la! ♫
+''(André opens a stairwell door and lets everyone go in first, but he is brainwashed by the fog before he gets inside. Marinette escapes the fog by using a service elevator.)''
+'''Princess Fragrance:''' Get them.
+'''André Bourgeois:''' ♫ At your service, Princess Fragrance. ♫
+''(Meanwhile, Marinette made it to the hotel kitchen. She peeks out from the door and sees Prince Ali, his chaperone, and Chloé back in the dining hall.)''
+'''Chloé:''' ''(to Butler Jean while pointing at André)'' He's under the spell! Shut the door!
+'''Prince Ali's chaperone:''' But it's your father!
+'''Chloé:''' Who cares? Shut it now!
+''(Jean uses a broom and pushes André out of the way and shuts the door. Everyone notices the perfume fog from the inside of the nearby elevator, and they all, except Jean, run off.)''
+'''[[Butler Jean]]:''' ♫ At your service, Princess Fragrance! ♫
+'''Princess Fragrance:''' ''(walks toward Prince Ali, his chaperone, and Chloé)'' Come into my arms, my sweet prince!
+'''Cat Noir:''' ''(sitting on the windowsill)'' Pee-ew! Can we get a little fresh air in here? ''(leaps in front of Princess Fragrance and took out his staff)''
+'''Princess Fragrance:''' No one will take my prince away! ''(fires at Cat Noir)''
+''(Cat Noir uses his staff to knock out the perfume spray. He then extendes his staff, picking up Princess Fragrance, and throws her in the kitchen.)''
+'''Marinette:''' Uh oh! ''(leaps out of the way)''
+''(Cat Noir extendes his staff from the window to the outside of the Le Grand Paris like a pole. A Parisian screams in surprise once the end of the staff hit the ground)''
+'''Cat Noir:''' Emergency evacuation, everybody down!
+'''Prince Ali's chaperone:''' It's much too dangerous for the prince.
+''(Cat Noir notices three mixing bowls on the cart nearby.)''
+'''Cat Noir:''' You're right. ''(taps on the bowls)'' Safety first! ''(puts one of the bowl on Prince Ali's head like a helmet, while Prince Ali smiles)''
+''(Cat Noir slides down the staff first. Followed by Chloé, Prince Ali, and his chaperone; the chaperone also wears a mixing bowl on her head. Once everyone is outside, Princess Fragrance looks out the window and sees them get inside the chaperone's car and drive away.)''
+'''Princess Fragrance:''' My prince! ''(she launches herself with her perfume gun and follows the car)''
+'''Marinette:''' ''(looks out the window)'' Tikki, please be okay.
+</poem>
+
+{{Scene|Scene: Inside Prince Ali's chaperone's car. Everyone is speeding away from Princess Fragrance, while at the same time still disgusted by Chloé's fish smell}}
+<poem>
+'''Cat Noir:''' Can we open the windows? This fish smell is even too much for a cat.
+''(The chaperone opens all the car windows. Both Prince Ali and Cat Noir gasp for air)''
+'''Tikki:''' ''(sneezes)'' ''(Prince Ali looks into his jacket pocket towards the noise)''
+'''Prince Ali's chaperone:''' We have precisely nine minutes to get to the hospital. The prince is on a very strict schedule.
+'''Cat Noir:''' What? No way we can going to the hospital now! We have to get Prince Ali out of Paris ASAP!
+''(Everyone hears a thud and looks up.)''
+'''Princess Fragrance:''' My prince! Fancy seeing you here, what a stroke of luck!
+'''Cat Noir:''' ''(to the chaperone)'' The windows!
+''(Prince Ali's chaperone tries to close all the car windows, but Princess Fragrance stops the sunroof)''
+'''Princess Fragrance:''' My prince, I'll take you to the [[Pont des Arts]], and there, we'll seal our love!
+''(Princess Fragrance then sprays everyone in the car. But Tikki escapes out of Prince Ali's pocket and lands on the car floor)''
+'''Hawk Moth:''' ''(from his lair)'' Cat Noir is down! It won't be long before Ladybug shows up too and meets her doom! ''(laughs)''
+</poem>
+
+{{Scene|Scene: The streets of Paris. Marinette rides on a scooter to follow the car; she already took off the cape from the disguise}}
+<poem>
+'''Marinette:''' ''(gasps)'' Oh no! Where's Tikki? ''(she runs to Prince Ali's chaperone's car, ignoring the accident around her. She took off her motorcycle helmet while running)'' Tikki? Tikki? ''(looks inside the car before noticing Tikki on the floor)'' ''(gasps)'' Tikki, I was so worried!
+'''Tikki:''' ''(opens her eyes)'' Marinette...
+'''Marinette:''' ''(picks up Tikki)'' You're much worse than I thought! We need to get you help!
+'''Tikki:''' We don't have time. You have to transform. I'll be okay... ''(coughs)'' 
+'''Marinette:''' No, Tikki. I'm not making the same mistake twice! We've gotta get you to the healer now!
+</poem>
+{{Scene|Scene: [[Fu's massage shop]]. Marinette watches as Master Wang Fu helps heal the sickness from Tikki}}
+<poem>
+''(Wang Fu is hitting a gong while Marinette stares at Tikki, feeling worried)''
+'''Marinette:''' She going to be okay?
+'''[[Wang Fu]]:''' "One who is burning with impatience can never eat hot porridge."
+'''Marinette:''' ''(confused)'' Um, what has this got to do with eating?
+'''Wang Fu:''' Silence please. Reading energies. ''(places both his hands in front of Tikki)'' What type of cat did you say?
+'''Marinette:''' Cat? Um, right. Rare hairless flying species from Kingdom of Achu. I was allowed to have one, because I won a zoo tap-dancing contest when I was in... the Kingdom of Achu. ''(laughs nervously)''
+''(Wang Fu stares at Marinette)''
+'''Wang Fu:''' Mm-hmm. Unusual. ''(picks up his gong)''
+'''Marinette:''' Yes, yes, very.
+''(Wang Fu bangs the gong for the last time)''
+'''Wang Fu:''' We are finished. ''(puts the gong down)'' Your cat's health has been restored.
+''(Marinette looks down at Tikki. To her delight, Tikki opens her eyes, feeling much better. Tikki flies into Marinette's hands)''
+'''Marinette:''' Thank you, thank you so much! You're a real magician, sir! ''(about to walk out the door, but stops)'' How did you do that?
+'''Wang Fu:''' Ancient Chinese secret. ''(Marinette closes the shop's door. Wang smiles)'' Just like yours.
+</poem>
+
+{{Scene|Scene: [[Seine]] riverbank. Marinette carries Tikki and stops.}}
+<poem>
+'''Marinette:''' Tikki, I'm so, so sorry. You were so sick and, well, I don't know what I do without you.
+'''Tikki:''' You wouldn't be Ladybug for one! ''(giggles)''
+'''Marinette:''' ''(laughs)''  I know, but I mean: Tikki, you're more than just my kwami for me.
+'''Tikki:''' I know. ''(Both Marinette and Tikki giggle while Tikki hugs Marinette's cheek)'' Oh, the Pont des Arts bridge! That's where they're headed! I overheard it in the car. Hurry, there's no time to lose!
+<center>'''''[ Transformation Sequence ]'''''
+'''Marinette:''' Tikki, spots on! Hah! ''(Marinette transforms into Ladybug)''</center>
+</poem>
+
+{{Scene|Scene: [[Pont des Arts]]. Princess Fragrance is about to wed Prince Ali}}
+<poem>
+''(Princess Fragrance is marching toward Prince Ali, while held by André Bourgeois like a bride; Prince Ali is with his chaperone, Cat Noir and Chloé)''
+'''Princess Fragrance:''' ''(stops in front of Prince Ali and holds both of her hands to his)'' I can't wait for us to be together. ♫ Forever! ♫ Servants, love padlock, please. ''(Cat Noir opens a box to reveal a padlock with Princess Fragrance's perfume coming off of it)'' This will lock our love forever, my prince!
+'''Prince Ali:''' ♫ At your service, Princess Fragrance! ♫
+''(A yo-yo appears, and knocks the padlock out of Princess Fragrance's hands, into the Seine river)''
+'''Princess Fragrance:''' My padlock! ''(gasps)''
+'''Ladybug:''' ''(from a lamp post near them)'' Not so fast, my royal pains in the neck!
+'''Princess Fragrance:''' You! You are ruining everything! So now I'll ruin you! ''(Princess Fragrance fires her gun at Ladybug. Once it hits her, she slides down on the bridge. Princess Fragrance grins evilly, before it revealed that Ladybug has a clothespin on her nose)''
+'''Hawk Moth:''' ''(from his lair)'' Use Cat Noir to get Ladybug's Miraculous!
+'''Princess Fragrance:''' Servants, attack! And take her earrings!
+''(Ladybug starts to fight with Prince Ali's chaperone, André, Chloé, and Cat Noir. While she's distracted, Princess Fragrance takes Prince Ali away with her. After knocking out the chaperone, André, and Chloé, Ladybug leaps away from Cat Noir before being hit by him)''
+'''Ladybug:''' Snap out of it, Cat Noir! It's me, Ladybug!
+'''Cat Noir:''' ♫ Give me your Miraculous! ♫
+''Ladybug sighs and she continues to fight him. Meanwhile back at the Le Grand Paris, Princess Fragrance and Prince Ali are at the rooftop pool)''
+'''Princess Fragrance:''' Who needs a padlock to secure our love when I can put ''everyone'' under my spell and make Paris our kingdom! ''(starts spraying the sky, forming a giant cloud of perfume)''
+'''Ladybug:''' Uh oh, I better do something before this whole thing blows up in my face. ''(gasps)'' Ah ha!
+''(flashback)''
+'''Ms. Mendeleiev:''' What happens when you play about with flammable substances in a chemistry lab.
+'''Ladybug:''' ''(sees the boat full of fireworks that André mentioned to Prince Ali earlier. She tosses her yo-yo around the lamp post behind her)'' Can't hit me! ''(Cat Noir continue to try hitting Ladybug)'' Miss! ''(giggles)'' ''(Cat Noir extended his staff, picking up Ladybug)'' Yeah!
+''(Once Ladybug lands on the boat, she pulls back the staff, lifting Cat Noir and making him land on the boat too)''
+'''Ladybug:''' Nice of you to drop in.
+'''Cat Noir:''' ♫ Give me your Miraculous! [[Cataclysm]]! ♫
+''(Cat Noir runs toward Ladybug and he is about to use Cataclysm on her. But Ladybug trips him, making him to use it on the fireworks' control panel instead, thus launching the fireworks into the sky. Ladybug grabs Cat Noir's tail and pulls him into the Seine river. She uses her yo-yo to go to the Le Grand Paris rooftop)''
+</poem>
+
+{{Scene|Scene: Le Grand Paris rooftop pool. Princess Fragrance watches as the fireworks clear out the giant perfume cloud}}
+<poem>
+'''Princess Fragrance:''' This city is not for us. Too many people want to bother us. Let's go far away from here, my prince! ''Very'' far!
+'''Ladybug:''' ''(above them)'' Leaving so soon? But the party just got started!
+'''Princess Fragrance:''' ''(angry)'' You! You are ruining everything! So now I'll ruin you!
+'''Ladybug:''' [[Lucky Charm]]! ''(A [[List of Lucky Charm objects|balloon]] appears)'' A balloon? What am I supposed to do with this?
+''(Ladybug uses her thinking vision, and a fireworks tube and Princess Fragrance's perfume appear. She leaps down and picks up the tube, avoiding Princess Fragrance's perfume bullet)''
+'''Princess Fragrance:''' You can't escape, Ladybug! It's over!
+''(Ladybug places the balloon inside the tube to form a makeshift dart. She tosses it, corking Princess Fragrance's perfume gun and contain the perfume in the balloon. She use her yo-yo to grab the gun and breaks it, releasing the akuma.''
+'''Ladybug:''' No more evil doing for you, little akuma. Time to de-evilize! ''(she catches the akuma)'' Gotcha! ''(she turns the akuma into a normal butterfly) Bye bye, little butterfly. [[Miraculous Ladybug (superpower)|Miraculous Ladybug]]! (She throws the Lucky Charm into the air. It explodes into a blast of energy that turns everyone back to normal.)''
+''(At the Seine riverbank, Cat Noir is licking himself dry before turning back to normal)''
+'''Cat Noir:''' What am I doing in here? And where's Ladybug?
+''(At the Pont des Arts, André Bourgeois and Prince Ali's chaperone are back to normal)''
+'''Prince Ali's chaperone:''' Ah, the schedule is a complete disaster! We are going to be late for everything! Where's the prince? Wait a minute, where am ''I''?
+''(Back at the Le Grand Paris rooftop, both Prince Ali is back to normal and Princess Fragrance turns back into Rose at the same time and they don't remember what happened to them)''
+'''Rose:''' Huh?
+'''Prince Ali:''' How did I get here?
+'''Rose:''' ''(stands up)'' Prince Ali? ''(she rushes toward him and she admires him. She grabs his left arm by cuddling him while she giggles)'' 
+'''Prince Ali:''' ''(he sees Ladybug)'' And who are you?
+'''Ladybug:''' ''(she giggles)'' Never mind, I'll leave you to chat with your number one fan. Bug out! ''(she leaves and she gives Prince Ali and Rose some privacy)'' 
+'''Rose:''' Know how you always help sick children around the world? I just want you to know that you're the most kindhearted person I ever met!
+'''Prince Ali:''' Really?
+'''Chloé:''' ''(appears)'' Prince Ali! You're safe! ''(she shoves Rose out the way)'' Aren't you glad I'm safe too? So, shall we continue where we left off?
+'''Prince Ali:''' Oh, no thank you. I have a special event at the hospital for children, with Miss Rose.
+'''Rose:''' ''(she gasps with excitement)''
+'''Prince Ali:''' Let us go quickly before my chaperone locates me. ''(he and Rose leave. Together they go to the hospital)''
+'''Rose:''' ''(she giggles)'' Bye, Chloé!
+''(Chloé growls and screams very angrily as she watches them leave)''
+</poem>
+{{Scene|'''THE END'''}}
+
+{{Transcripts}}
+[[es:La Princesa Fragancia/Transcripción]]
+[[pl:Wonna Księżniczka/Transkrypt]]
+[[Category:Season 1 transcripts]]
+[[Category:Episode transcripts]]
+

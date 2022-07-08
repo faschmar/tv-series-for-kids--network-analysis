@@ -1,0 +1,20 @@
+{{ShortTr
+|prev = Surfing Dreams
+|title = SpongeBoard
+|next = SpongeGod
+|titlecard = SpongeBoard.jpg
+|shortnumber = 3
+|shorttype = SpongeBob SquarePants vs. The Big One shorts
+|airdate = {{Time|April 22}}, {{Time|2009}}
+}}
+{{L|''[everyone is enjoying their day at the Goo Lagoon, SpongeBob and Patrick both see a surfer riding a wave]''}}
+{{L|SpongeBob|See, Patrick? Now that is surfing!}}
+{{L|Patrick|I wanna try! I wanna try!}}
+{{L|SpongeBob|Let's do it! ''[lies on his back on the water]'' Your surfboard awaits.}}
+{{L|Patrick|Oooooohhh.}}
+{{L|''[Patrick is on SpongeBob, he sees a wave and surfs on it, and laughs]''}}
+{{L|SpongeBob|This is awesome! ''[but because he's a sponge, he starts absorbing water, and grows bigger]''}}
+{{L|Patrick|I feel so floaty! Hey, why aren't we, huh? ''[SpongeBob is now at gigantic size, with all of the water absorbed]''}}
+{{L|Surfer|Uh, excuse me. Can we have our ocean back?}}
+[[Category:Transcripts]]
+
